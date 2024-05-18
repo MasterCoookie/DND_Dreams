@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "4f6bb0716a5d57fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9843a2cdd7f97a6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c43f26c759916364",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Arcs/immediate/A Mimir.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "d44ab0f218e034b9"
+          },
+          {
+            "id": "b27b275741ab456d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesja 0.5 - Magni i Berthold.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffaae8e29c2f3d31",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f5178034cc8638da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f43ac2c70b2bb010",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "D&D/Arcs/immediate/A Mimir.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 2.511546793749916,
+                  "close": false
+                }
+              }
+            },
+            "group": "d44ab0f218e034b9"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1bfff009dd81ef9e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5cb8b698340c3216",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5c383b754d2ae8ee",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#immediate",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "efc0a30754a68828",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "a41d8a7cd5069f8b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "3966fdf8cebb082f",
+        "type": "leaf",
+        "state": {
+          "type": "tagfolder-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "df6e026c0b7a6cd4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "84d073fef970bb96",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Sesja 0.5 - Magni i Berthold.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "86f9fd0c86829943",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Sesja 0.5 - Magni i Berthold.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bcbe1c937703fcec",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Sesja 0.5 - Magni i Berthold.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b27b275741ab456d",
+  "lastOpenFiles": [
+    "D&D/Sesje/Sesja 0.md",
+    "Sesja 0.5 - Magni i Berthold.md",
+    "D&D/NPC/Ciollo Nieustraszony.md",
+    "D&D/PC/Magni - Krasnolud Kleryk.md",
+    "D&D/PC/Matylda - Elf Plague Doctor.md",
+    "D&D/Losowe pomysły.md",
+    "D&D/Arcs/immediate/A Mimir.md",
+    "Świat - Aetheria.md",
+    "D&D/miejsce/Ascudpolis - Megamiasto krasnoludów.md",
+    "D&D/NPC/Servant BBEG.md",
+    "D&D/NPC/Vuglox.md",
+    "D&D/NPC/Thorin Kamieniomów.md",
+    "D&D/NPC/Deva - Aurelius.md",
+    "D&D/NPC/Celina.md",
+    "D&D/NPC/Borin Skarbnogłębik.md",
+    "D&D/NPC/Bob.md",
+    "D&D/Arcs/narrative/Bohaterowie z przypadku.md",
+    "D&D/Arcs/immediate/Nieustraszeni.md",
+    "D&D/NPC/Liam.md",
+    "Czysty jak lza.md",
+    "D&D/Arcs/immediate/Sen pod krwawym księżycem.md",
+    "D&D/NPC/Tristan.md",
+    "Vuglox.md",
+    "D&D/PC/Berthold - Genasi Warlock.md",
+    "D&D/Sesje/Intro sesja 1.md",
+    "D&D/Barbarian - Path Of The Hextech Warrior.md",
+    "Untitled",
+    "D&D/PhotoReal_museum_keeper_old_gray_hair_smiling_laughing_wringle_0.jpg"
+  ]
+}

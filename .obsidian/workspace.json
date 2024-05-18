@@ -1,0 +1,321 @@
+{
+  "main": {
+    "id": "423c8840260070f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b97edcc0dc0b32cd",
+        "type": "tabs",
+        "dimension": 54.33804627249358,
+        "children": [
+          {
+            "id": "0315015f2ecf0a9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/NPC/Czerwony Kaptur.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ec276e4fe2b8b47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Arcs/immediate/Sesja 1 - A Mimir.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7459d86c79e21342",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/NPC/Czerwony Kaptur.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8450b6242cfce99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Świat - Aetheria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c5e3b90c44afa5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Arcs/immediate/Szkice/Śledztwo w poszukiwaniu celu kampanii.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14b240d07e23596e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/NPC/Dżin Zafar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "310bd72bfc7eab36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Murdrin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9513b2d326ec4e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Sesje/Sesja 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "52911f100fc30d00",
+        "type": "tabs",
+        "dimension": 45.66195372750642,
+        "children": [
+          {
+            "id": "f3701eafb94d0967",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Sesje/Sesja 0.5 - Kata'an i Matylda.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74d98116bb6d828e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "D&D/img/Pasted image 20231223233936.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c06d13b7e1617a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c9c8d70bf9f2c45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d57113f39293e2f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e470a54ff8523b67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "74d225a49e1b880b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "233f477fc2089c09",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "right": {
+    "id": "1692e6d295897531",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6688c13ef73dae0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03900f6abd8b8032",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "D&D/Arcs/immediate/Sesja 1 - A Mimir.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9f8baea8ed163b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "D&D/Arcs/immediate/Sesja 1 - A Mimir.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1cd502c52b5588ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c9c183a4acf5c69d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "D&D/Arcs/immediate/Sesja 1 - A Mimir.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8ec276e4fe2b8b47",
+  "lastOpenFiles": [
+    "D&D/NPC/Czerwony Kaptur.md",
+    "D&D/Sesje/Sesja 0.5 - Kata'an i Matylda.md",
+    "D&D/Arcs/immediate/Nieustraszeni.md",
+    "Fuji.md",
+    "D&D/Lore/Oniroflaski.md",
+    "D&D/Arcs/narrative/Bohaterowie z przypadku.md",
+    "D&D/Arcs/immediate/Szkice/Śledztwo w poszukiwaniu celu kampanii.md",
+    "D&D/Arcs/immediate/Sesja 1 - A Mimir.md",
+    "D&D/Arcs/Campagin Arc.md",
+    "D&D/Arcs/immediate/Sen pod krwawym księżycem.md",
+    "D&D/Losowe pomysły.md",
+    "D&D/Sesje/Sesja 0.5 - Magni i Berthold.md",
+    "D&D/Sesje/Sesja 1.md",
+    "D&D/Sesje/Intro sesja 1.md",
+    "D&D/Sesje/Sesja 0.md",
+    "D&D/PC/Matylda - Elf Plague Doctor.md",
+    "D&D/PC/Grom - Krasnolud Barbarian.md",
+    "D&D/PC/Berthold - Genasi Warlock.md",
+    "D&D/miejsce/Ascudpolis - Megamiasto krasnoludów.md",
+    "D&D/NPC/J. Black.md",
+    "D&D/NPC/Gregory.md",
+    "D&D/NPC/Gilda Żelaznogrzmocia.md",
+    "D&D/NPC/Frazan Rhoka.md",
+    "D&D/NPC/Eldric.md",
+    "D&D/NPC/Dżin Zafar.md",
+    "D&D/NPC/Deva - Aurelius.md",
+    "D&D/img/Pasted image 20231223233936.png",
+    "~syncthing~Sesja 0.5 - Magni i Berthold.md.tmp",
+    "D&D/img/Pasted image 20230924134425.png",
+    "D&D/img/Pasted image 20230924133642.png",
+    "D&D/img/Pasted image 20230923231743.png",
+    "D&D/img/Pasted image 20230824155434.png",
+    "D&D/img/Pasted image 20230824155400.png",
+    "D&D/img/matylda.png",
+    "D&D/img/DreamShaper_v7_outside_of_weird_looking_croocked_tilted_house_1.jpg",
+    "D&D/img/DreamShaper_v7_outside_of_weird_looking_croocked_nightclub_fan_0 1.jpg",
+    "D&D/img/DreamShaper_v7_outside_of_weird_looking_croocked_nightclub_fan_0.jpg",
+    "D&D/Arcs/immediate/Szkice",
+    "D&D/~syncthing~Losowe pomysły.sync-conflict-20240204-125422-SKE4RKR.md.tmp",
+    "D&D/Sidequests",
+    "D&D/~syncthing~Losowe pomysły.md.tmp",
+    "D&D/NPC/~syncthing~Servant BBEG.md.tmp",
+    "D&D/Sesje/~syncthing~Sesja 0.md.tmp",
+    "D&D/miejsce/~syncthing~Ascudpolis - Megamiasto krasnoludów.md.tmp",
+    "Sidequests/Untitled",
+    "Sidequests"
+  ]
+}
