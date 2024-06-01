@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Arcs/immediate/Sesja 1 - A Mimir.md",
+                "file": "D&D/Arcs/immediate/Nieustraszeni.md",
                 "mode": "source",
                 "source": false
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Arcs/immediate/Sesja 1 - A Mimir.md",
+                "file": "D&D/Arcs/immediate/Nieustraszeni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Arcs/immediate/Sesja 1 - A Mimir.md",
+                "file": "D&D/Arcs/immediate/Nieustraszeni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Arcs/immediate/Sesja 1 - A Mimir.md"
+                "file": "D&D/Arcs/immediate/Nieustraszeni.md"
               }
             }
           }
@@ -269,15 +269,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d57113f39293e2f0",
+  "active": "8ec276e4fe2b8b47",
   "lastOpenFiles": [
+    "D&D/Mapy/peace_normal_borders.dd2vtt",
+    "D&D/Mapy/peace_small_borders.dd2vtt",
+    "D&D/Mapy/peace.dam",
+    "D&D/Mapy/p.dam",
+    "D&D/Arcs/immediate/Sen pod krwawym księżycem.md",
+    "D&D/NPC/Czerwony Kaptur.md",
     "D&D/Mapy/dystr jsdkinir, improoved 2.dd2vtt",
     "D&D/Mapy/dystr jsdkinir, improoved 1.dd2vtt",
     "D&D/Mapy/dystr jsdkinir, improoved 1.dam",
     "D&D/Mapy/dystr jsdkinir, improoved.dd2vtt",
     "D&D/Mapy/dystr jsdkinir, improoved.dam",
     "D&D/Mapy",
-    "D&D/NPC/Czerwony Kaptur.md",
     "D&D/Sesje/Sesja 0.5 - Kata'an i Matylda.md",
     "D&D/Arcs/immediate/Nieustraszeni.md",
     "Fuji.md",
@@ -286,7 +291,6 @@
     "D&D/Arcs/immediate/Szkice/Śledztwo w poszukiwaniu celu kampanii.md",
     "D&D/Arcs/immediate/Sesja 1 - A Mimir.md",
     "D&D/Arcs/Campagin Arc.md",
-    "D&D/Arcs/immediate/Sen pod krwawym księżycem.md",
     "D&D/Losowe pomysły.md",
     "D&D/Sesje/Sesja 0.5 - Magni i Berthold.md",
     "D&D/Sesje/Sesja 1.md",
@@ -312,10 +316,6 @@
     "D&D/img/matylda.png",
     "D&D/img/DreamShaper_v7_outside_of_weird_looking_croocked_tilted_house_1.jpg",
     "D&D/img/DreamShaper_v7_outside_of_weird_looking_croocked_nightclub_fan_0 1.jpg",
-    "D&D/img/DreamShaper_v7_outside_of_weird_looking_croocked_nightclub_fan_0.jpg",
-    "D&D/Arcs/immediate/Szkice",
-    "D&D/~syncthing~Losowe pomysły.sync-conflict-20240204-125422-SKE4RKR.md.tmp",
-    "D&D/Sidequests",
-    "D&D/~syncthing~Losowe pomysły.md.tmp"
+    "D&D/img/DreamShaper_v7_outside_of_weird_looking_croocked_nightclub_fan_0.jpg"
   ]
 }
