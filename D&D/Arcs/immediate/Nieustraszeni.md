@@ -8,7 +8,7 @@
 * [[Liam]] zaskoczony znalezieniem [[Oniroflaski]] opowiada party pierwszą opowieść Liam'a
 * [[Liam]] nie bierze również opowieści o [[Blazewrath - Siewca Piekieł]] na poważnie, zakłada iluzję/haluny
 * Mówi, że aktywacja wymaga [[księżycowy pył]], mały worek powinien wystarczyć na wieczność
-* Nie ma na stanie, ale [[Ciollo Nieustraszony]] im ogarnie, wisi mu przysługę
+* Nie ma na stanie, ale [[Ciollo Nieustraszony]] im ogarnie, wisi mu przysługę, podaje tajne wejście do [[CiR]]
 ## CiR
 
 ### Zewnątrz 
@@ -56,12 +56,12 @@
 * zapach lasu i delikatna, przyjemna bryza
 * Drogowskaz na "[[Zefir]]"
 * nagły smród trupa
-* Walka z [ghoul](https://www.dndbeyond.com/monsters/16872-ghoul) i 3x [zombie](https://roll20.net/compendium/dnd5e/Zombie#content) które akurat konsumują trupa ubranego w bordowy kaftan
+* Walka z [ghoul](https://www.dndbeyond.com/monsters/16872-ghoul) i 2x [zombie](https://roll20.net/compendium/dnd5e/Zombie#content) które akurat konsumują trupa ubranego w bordowy kaftan
 * dalsza droga bez przeszkód
 ![[Pasted image 20231224210927.png]]
 ## Brama do wioski
 * Początkowo wieśniacy nie chcą wpuścić party do środka
-* ktoś inny pyta, czy widzieli "Andżelo", bordowy kaftan
+* ktoś inny pyta, czy widzieli "Aoto", bordowy kaftan
 * rozpaczają nad jego śmiercią, ale proste DC 12 da im wejście
 * po chwili spaceru przez wioskę słychać krzyki z rynku
 
@@ -89,12 +89,22 @@
 * [[Wilhelm]] zapłacił szczodrze za polerowaną tarczę, ale nigdy jej nie odebrał
 
 ### Obóz
-* dziennik [[Wilhelm]]
+* [[dziennik Wilhelma]]
 * plecak po sprzęcie
+
+## Jaskinia bestii
+* walka z 2x [Basilisk](https://5e.tools/bestiary/young-basilisk-oota.html)
+* [[Wilhelm]] na środku, zamieniony w kamień
+* ręka w ciosie zabitego dużego bazyliszka
+* głowa odwrócona w bok, twarz zaskoczona
+* fiolka zbierająca jad
+* w jaskini grzyby, które wyglądają na napęczniałe
+* po wybuchu DC 16 CON check, lub oślepienie
 
 #### Dziennik
 * "Nie będzie mi jakiś kurwa wsiur wjeżdżał na ambicje! Bez tarczy też dam radę!"
 
 # Post
 * Wyjście ze snu
+* lvl 3
 # notes

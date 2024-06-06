@@ -4,24 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b97edcc0dc0b32cd",
+        "id": "d8c3592cacf98c2d",
         "type": "tabs",
-        "dimension": 54.33804627249358,
         "children": [
           {
-            "id": "0315015f2ecf0a9e",
+            "id": "9550e3c9a3bcc6f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/NPC/Czerwony Kaptur.md",
+                "file": "D&D/Arcs/immediate/Sesja 2 - potential fuckup.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8ec276e4fe2b8b47",
+            "id": "8448c938f9f4f1ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,106 +30,23 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7459d86c79e21342",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/NPC/Czerwony Kaptur.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8450b6242cfce99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Świat - Aetheria.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c5e3b90c44afa5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Arcs/immediate/Szkice/Śledztwo w poszukiwaniu celu kampanii.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14b240d07e23596e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/NPC/Dżin Zafar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "310bd72bfc7eab36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Murdrin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9513b2d326ec4e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Sesje/Sesja 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "52911f100fc30d00",
+        "id": "f52fcdc7acfabc1c",
         "type": "tabs",
-        "dimension": 45.66195372750642,
         "children": [
           {
-            "id": "f3701eafb94d0967",
+            "id": "dc908b5557e4fbe1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Sesje/Sesja 0.5 - Kata'an i Matylda.md",
+                "file": "dziennik Wilhelma.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "74d98116bb6d828e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "D&D/img/Pasted image 20231223233936.png"
               }
             }
           }
@@ -208,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Arcs/immediate/Nieustraszeni.md",
+                "file": "dziennik Wilhelma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Arcs/immediate/Nieustraszeni.md",
+                "file": "dziennik Wilhelma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Arcs/immediate/Nieustraszeni.md"
+                "file": "dziennik Wilhelma.md"
               }
             }
           }
@@ -269,31 +185,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ec276e4fe2b8b47",
+  "active": "dc908b5557e4fbe1",
   "lastOpenFiles": [
+    "D&D/NPC/Czerwony Kaptur.md",
+    "dziennik Wilhelma.md",
+    "D&D/Arcs/immediate/Nieustraszeni.md",
+    "D&D/Arcs/immediate/Sesja 2 - potential fuckup.md",
+    "D&D/Arcs/immediate/Sesja 1 - A Mimir.md",
+    "D&D/img/Pasted image 20231223233936.png",
+    "D&D/Sesje/Sesja 0.5 - Kata'an i Matylda.md",
+    "D&D/Sesje/Sesja 1.md",
+    "Murdrin.md",
+    "D&D/NPC/Dżin Zafar.md",
+    "D&D/Arcs/immediate/Szkice/Śledztwo w poszukiwaniu celu kampanii.md",
+    "Świat - Aetheria.md",
     "D&D/Mapy/peace_normal_borders.dd2vtt",
     "D&D/Mapy/peace_small_borders.dd2vtt",
     "D&D/Mapy/peace.dam",
     "D&D/Mapy/p.dam",
     "D&D/Arcs/immediate/Sen pod krwawym księżycem.md",
-    "D&D/NPC/Czerwony Kaptur.md",
     "D&D/Mapy/dystr jsdkinir, improoved 2.dd2vtt",
     "D&D/Mapy/dystr jsdkinir, improoved 1.dd2vtt",
     "D&D/Mapy/dystr jsdkinir, improoved 1.dam",
     "D&D/Mapy/dystr jsdkinir, improoved.dd2vtt",
     "D&D/Mapy/dystr jsdkinir, improoved.dam",
     "D&D/Mapy",
-    "D&D/Sesje/Sesja 0.5 - Kata'an i Matylda.md",
-    "D&D/Arcs/immediate/Nieustraszeni.md",
     "Fuji.md",
     "D&D/Lore/Oniroflaski.md",
     "D&D/Arcs/narrative/Bohaterowie z przypadku.md",
-    "D&D/Arcs/immediate/Szkice/Śledztwo w poszukiwaniu celu kampanii.md",
-    "D&D/Arcs/immediate/Sesja 1 - A Mimir.md",
     "D&D/Arcs/Campagin Arc.md",
     "D&D/Losowe pomysły.md",
     "D&D/Sesje/Sesja 0.5 - Magni i Berthold.md",
-    "D&D/Sesje/Sesja 1.md",
     "D&D/Sesje/Intro sesja 1.md",
     "D&D/Sesje/Sesja 0.md",
     "D&D/PC/Matylda - Elf Plague Doctor.md",
@@ -302,12 +224,6 @@
     "D&D/miejsce/Ascudpolis - Megamiasto krasnoludów.md",
     "D&D/NPC/J. Black.md",
     "D&D/NPC/Gregory.md",
-    "D&D/NPC/Gilda Żelaznogrzmocia.md",
-    "D&D/NPC/Frazan Rhoka.md",
-    "D&D/NPC/Eldric.md",
-    "D&D/NPC/Dżin Zafar.md",
-    "D&D/img/Pasted image 20231223233936.png",
-    "~syncthing~Sesja 0.5 - Magni i Berthold.md.tmp",
     "D&D/img/Pasted image 20230924134425.png",
     "D&D/img/Pasted image 20230924133642.png",
     "D&D/img/Pasted image 20230923231743.png",
