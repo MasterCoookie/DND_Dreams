@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dziennik Wilhelma.md",
+                "file": "D&D/Arcs/immediate/Nieustraszeni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dziennik Wilhelma.md",
+                "file": "D&D/Arcs/immediate/Nieustraszeni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dziennik Wilhelma.md"
+                "file": "D&D/Arcs/immediate/Nieustraszeni.md"
               }
             }
           }
@@ -185,11 +185,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc908b5557e4fbe1",
+  "active": "8448c938f9f4f1ef",
   "lastOpenFiles": [
-    "D&D/NPC/Czerwony Kaptur.md",
     "dziennik Wilhelma.md",
     "D&D/Arcs/immediate/Nieustraszeni.md",
+    "D&D/NPC/Czerwony Kaptur.md",
     "D&D/Arcs/immediate/Sesja 2 - potential fuckup.md",
     "D&D/Arcs/immediate/Sesja 1 - A Mimir.md",
     "D&D/img/Pasted image 20231223233936.png",
