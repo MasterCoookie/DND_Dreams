@@ -12,3 +12,6 @@
 # Post
 
 # Notes
+* [[dziennik Wilhelma]] znaleziony
+* mogą chcieć uratować [[Wilhelm]]
+* [[Ciollo Nieustraszony]] zapodał questa

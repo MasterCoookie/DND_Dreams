@@ -3,7 +3,7 @@
 
 Piękna ale bardzo surowa pod względem wyglądu i charakteru uczelnia znajduje się na 2 warstwie olbrzymiego ascudpolis. Cały kampus jest otoczony potężnymi murami, zbudowanymi z kryształów i kamieni szlachetnych które wydobywa się w tym mieście. Główny budynek uniwersytetu jest wspaniale zdobiony i posiada wiele wież, kopuł oraz arkad, z których każda jest ozdobiona runami.
 
-Wnętrze uniwersytetu emanuje atmosferą tajemnicy i mądrości. Korytarze są wyłożone cennymi dywanami, a ściany ozdobione starożytnymi księgami i zwojami, które zawierają zaklęcia i wiedzę magiczną. Wielkie sale wykładowe są wyposażone w rzeźbione drewniane ławki oraz konkretne sale wyposażone są w pormofesionalne stoły alchemiczne. 
+Wnętrze uniwersytetu emanuje atmosferą tajemnicy i mądrości. Korytarze są wyłożone cennymi dywanami, a ściany ozdobione starożytnymi księgami i zwojami, które zawierają zaklęcia i wiedzę magiczną. Wielkie sale wykładowe są wyposażone w rzeźbione drewniane ławki oraz konkretne sale wyposażone są w profesjonalne stoły alchemiczne. 
 
 Co do charakteru uczelni, Uniwersytet Sztuk Magicznych i Kapłaństwa w Ascidpolis jest znany z długiej tradycji nauczania magii i religii. Studenci są starannie wybierani i szkoleni, aby stali się potężnymi magami i kapłanami. W atmosferze tego miejsca panuje surowość i dyscyplina, ale jednocześnie promuje się tutaj kreatywność i rozwijanie własnych talentów magicznych. 
 

@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Arcs/immediate/Sesja 2 - potential fuckup.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8448c938f9f4f1ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Arcs/immediate/Nieustraszeni.md",
+                "file": "D&D/Arcs/immediate/Sesja 3 - czynienie wiosny.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f52fcdc7acfabc1c",
@@ -44,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dziennik Wilhelma.md",
+                "file": "D&D/PC/Magni - Krasnolud Kleryk.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Arcs/immediate/Nieustraszeni.md",
+                "file": "D&D/Arcs/immediate/Sesja 3 - czynienie wiosny.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Arcs/immediate/Nieustraszeni.md",
+                "file": "D&D/Arcs/immediate/Sesja 3 - czynienie wiosny.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Arcs/immediate/Nieustraszeni.md"
+                "file": "D&D/Arcs/immediate/Sesja 3 - czynienie wiosny.md"
               }
             }
           }
@@ -185,19 +172,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8448c938f9f4f1ef",
+  "active": "9550e3c9a3bcc6f4",
   "lastOpenFiles": [
+    "D&D/PC/Magni - Krasnolud Kleryk.md",
+    "D&D/Lore/Pierwsza bitwa o Ascudpolis.md",
+    "D&D/Arcs/immediate/Sesja 3 - czynienie wiosny.md",
+    "D&D/miejsce/Uniwersytet Sztuk Magicznych i Kapłaństwa w Ascudpolis (USMiKA).md",
+    "Murdrin.md",
+    "D&D/Lore/Oniroflaski.md",
     "dziennik Wilhelma.md",
-    "D&D/Arcs/immediate/Nieustraszeni.md",
-    "D&D/NPC/Czerwony Kaptur.md",
-    "D&D/Arcs/immediate/Sesja 2 - potential fuckup.md",
+    "D&D/Arcs/narrative/Bohaterowie z przypadku.md",
     "D&D/Arcs/immediate/Sesja 1 - A Mimir.md",
+    "D&D/Arcs/immediate/Nieustraszeni.md",
+    "D&D/Arcs/immediate/Sesja 2 - potential fuckup.md",
+    "D&D/NPC/księżniczka Elowen Diamencika.md",
+    "D&D/Mapy/dom_eldrica.dam",
+    "D&D/NPC/Czerwony Kaptur.md",
     "D&D/img/Pasted image 20231223233936.png",
     "D&D/Sesje/Sesja 0.5 - Kata'an i Matylda.md",
     "D&D/Sesje/Sesja 1.md",
-    "Murdrin.md",
     "D&D/NPC/Dżin Zafar.md",
-    "D&D/Arcs/immediate/Szkice/Śledztwo w poszukiwaniu celu kampanii.md",
     "Świat - Aetheria.md",
     "D&D/Mapy/peace_normal_borders.dd2vtt",
     "D&D/Mapy/peace_small_borders.dd2vtt",
@@ -209,10 +203,7 @@
     "D&D/Mapy/dystr jsdkinir, improoved 1.dam",
     "D&D/Mapy/dystr jsdkinir, improoved.dd2vtt",
     "D&D/Mapy/dystr jsdkinir, improoved.dam",
-    "D&D/Mapy",
     "Fuji.md",
-    "D&D/Lore/Oniroflaski.md",
-    "D&D/Arcs/narrative/Bohaterowie z przypadku.md",
     "D&D/Arcs/Campagin Arc.md",
     "D&D/Losowe pomysły.md",
     "D&D/Sesje/Sesja 0.5 - Magni i Berthold.md",
@@ -220,10 +211,6 @@
     "D&D/Sesje/Sesja 0.md",
     "D&D/PC/Matylda - Elf Plague Doctor.md",
     "D&D/PC/Grom - Krasnolud Barbarian.md",
-    "D&D/PC/Berthold - Genasi Warlock.md",
-    "D&D/miejsce/Ascudpolis - Megamiasto krasnoludów.md",
-    "D&D/NPC/J. Black.md",
-    "D&D/NPC/Gregory.md",
     "D&D/img/Pasted image 20230924134425.png",
     "D&D/img/Pasted image 20230924133642.png",
     "D&D/img/Pasted image 20230923231743.png",
