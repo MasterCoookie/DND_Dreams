@@ -1,5 +1,6 @@
-
-Eldric podczas aresztowania daje party klucz
+# Pre
+* Eldric podczas aresztowania daje party klucz
+* Strażników jest mniej, bo poszli gasić pożar we Wiosce
 # Fortuna błysk
 * Party przychodzi do pałacu, [[Eldric]] okazuje się martwy
 * Random percepiton check - podsłuchujący bandyta
@@ -59,5 +60,7 @@ Jeśli to czytasz, to najprawdopodobniej jestem już martwy (ależ to poetyckie)
 
 *To nie jest prawda. Przynajmniej taką mam nadzieję. Muszę odnaleźć tę bandę pajacy...*
 
+Notatka:
 
-
+[[Blazewrath - Siewca Piekieł]]
+![[PhotoFunia-1718565581.jpg]]

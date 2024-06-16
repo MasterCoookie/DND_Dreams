@@ -1,2 +1,10 @@
 * Ancient Red Dragon
-* 
+
+# Strona z księgi
+*Blazewrath, zwany Siewcą Piekieł. Ostatni z pradawnych chromatycznych smoków w całej Aetherii. Słowa nie są w stanie opisać ogromu jego legendarnej furii i niszczycielskiej mocy.
+
+*Jako największy przedstawiciel swojego gatunku, jego cielsko mierzy około 32 metry, a rozpostarte skrzydła 40 metrów. Jego oddech to żywy ogień, gorętszy niż lawa, który spala wszystko, co napotka na swojej drodze. Na jego ciele widnieją liczne blizny – świadectwa setek bitew, które stoczył z innymi potężnymi stworzeniami oraz śmiałkami próbującymi zgładzić bestię. Jego łuski, o barwie ciemniejszej niż najgłębsza czerwień, połyskują w blasku płomieni, a jego oczy płoną żarem, który potrafi spalić duszę najodważniejszego wojownika*
+
+*Niewielu ocalałych, których los ukarał spotkaniem z Siewcą Piekieł, opisuje smoka jako nienawidzącego wszystkiego wszystkiego, co żywe. Każdy oddech śmiertelnika, każdy śmiech i każda radość są dla niego obrazą, którą stara się zetrzeć z powierzchni świata. Jest mściwy, nigdy nie zapomina żadnej urazy i zawsze szuka okazji, by się zemścić na tych, którzy mu się sprzeciwili. Jego pewność siebie graniczy z arogancją. Blazewrath wierzy, że jest niepokonany, że żaden śmiertelnik ani bóg nie mogą go zgładzić. To przekonanie o własnej nieomylności czyni go jeszcze bardziej niebezpiecznym, ponieważ nigdy nie rozważa porażki. W jego oczach jest niekwestionowanym władcą ognia i zniszczenia, a każdy, kto myśli inaczej, jest skazany na szybką śmierć.
+
+*Według legend ludowych, Blazewrath nie jest tylko smokiem; jest ucieleśnieniem zniszczenia i chaosu. Pradawne teksty opisują go jako demona ognia, który sprowadzał plagi na miasta i wsie, przekształcając żyzne ziemie w jałowe pustkowia. Jego ulubionym zajęciem było sianie strachu w sercach tych, którzy ośmielili się go wyzwać. Mówi się, że w jednym z największych miast, które spalił, przetrwał jedynie zamek z kamienia, który stopił się w dziwaczne, groteskowe kształty.*
