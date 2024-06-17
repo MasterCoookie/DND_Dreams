@@ -13,6 +13,9 @@
 
 # Dom Eldric
 * Rozgrzebane papiery, ewidentnie robił research, burdel w chałupie
+* Kartka z napisem po elficku "szukaj wskazówek" za herbem
+* w przyborniku na narzędzia piśmiennicze wskazówki do zegara
+* Sejfik: rysunki kart do gry, pewnie z kasyna, królowa kier jest podkreślona
 * Karta do gry z "paradoksem (napis na drugiej stronie mówi prawdę)" (hasłem do sejfiku)
 * jeśli potrzebne, clue #2 
 * Poszukiwania przerwane włamaniem, walka z bandytami, którzy dowiedzieli się, że właściciel domu nie żyje
@@ -28,9 +31,8 @@
 * wytropiony - w torbie clue #3
 
 # Lombard
-* zegar z kukułką
+* wskazówki do zegara
 * zastawiony za 20 GP
-
 
 # Clues
 1. Koperta po liście z adresem domu
@@ -44,7 +46,7 @@ Jeśli to czytasz, to najprawdopodobniej jestem już martwy (ależ to poetyckie)
 
 *Do uniwersyteckiej biblioteki też chcieli odmówić mi wstępu. Na szczęście [[Murdrin]] ma swoje za uszami. Wystarczy mu wspomnieć o Brylli i zgodzi się na wszystko.*
 
-*Te miasto skrywa jakiś sekret i nie są nim mroczne rytuały. A już na pewno nie powodują one choroby pojedynczej księżniczki. Nie winię [[Elara Szlachetniczka Diamencji]], ale jej desperacja... Nie pomaga.
+*Te miasto skrywa jakiś sekret i nie są nim mroczne rytuały. A już na pewno nie powodują one choroby pojedynczej księżniczki. Nie winię Elary, ale jej desperacja... Nie pomaga.
 
 *Brakuje ksiąg, albo stron. Inne są podrobione i na chama wklejone pomiędzy kartki. Bibliotekarze grają głupich, cóż za zaskoczenie...
 
@@ -56,7 +58,7 @@ Jeśli to czytasz, to najprawdopodobniej jestem już martwy (ależ to poetyckie)
 
 *Dokopałem się do historii i planów uczelni. W jednym miejscu brakuje paru metrów ściany...*
 
-*Bingo. Tylko kilka książek, ale już wiem, że to właśnie tego szukałem*
+*Bingo. Tylko kilka książek, ale już wiem, że to właśnie tego szukałem.*
 
 *To nie jest prawda. Przynajmniej taką mam nadzieję. Muszę odnaleźć tę bandę pajacy...*
 
