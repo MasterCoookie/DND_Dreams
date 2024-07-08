@@ -1,0 +1,1 @@
+* stolica [[Królestwo Jednego Ludu]]
