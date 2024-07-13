@@ -22,9 +22,8 @@
 ## Uniwersytet
 * Byle kto nie może sobie tak po prostu wejść
 Opcje wejścia:
-1. Przekupstwo (75 GP)
-2. Przez kuchnię
-3. Kanałem
+1. Przekupstwo (100 GP)
+3. Kanałem - walka z [Gelatinous Cube](https://www.dndbeyond.com/monsters/16869-gelatinous-cube) + [Crocodile](https://www.dndbeyond.com/monsters/16834-crocodile)
 # Wyniki pracy Eldrica (notatka)
 
 *Drogi ty, który to znalazłeś,

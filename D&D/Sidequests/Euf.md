@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=_Yi4RbUdcL4
 * [[Leia]] może się komunikować obustronnie, ale tylko [[Ciollo Nieustraszony]] może inicjalizować
 * wysłani na południową bramę
 * odmawia dodatkowych informacji
-* oferuje 100GP i kolejne 300GP po wykonaniu zadania
+* oferuje 100GP i kolejne 500GP po wykonaniu zadania
 
 ## Trakt
 * po wyjściu przez [[Leia]] [[Ciollo Nieustraszony]] prowadzi party na boczną ścieżkę
@@ -42,6 +42,11 @@ https://www.youtube.com/watch?v=_Yi4RbUdcL4
 * Jeden z koni ma pakunek wielkości beczki owinięty w koce
 * [[Ciollo Nieustraszony]] odzywa się przez kota: *[[Mike]]? A to kutas, podwoje waszą kwotę jak dostarczycie mi go żywego. I kolejne pół jak martwego. No i paczkę*
 ### Skill Challenge - tropienie + schwytanie
-#TODO 
+
+| Komplikacja                                   | Konsekwencja |
+| --------------------------------------------- | ------------ |
+| Uciekający [[Mike]] zboczył gdzieś ze ścieżki |              |
+
 
 ## Powrót i CiR
+* zamiast golda, party może otrzymać [[Katana of Hextech Perfection]]
