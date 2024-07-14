@@ -42,11 +42,20 @@ https://www.youtube.com/watch?v=_Yi4RbUdcL4
 * Jeden z koni ma pakunek wielkości beczki owinięty w koce
 * [[Ciollo Nieustraszony]] odzywa się przez kota: *[[Mike]]? A to kutas, podwoje waszą kwotę jak dostarczycie mi go żywego. I kolejne pół jak martwego. No i paczkę*
 ### Skill Challenge - tropienie + schwytanie
+[[Skill chalenge cheatsheet]]
 
-| Komplikacja                                   | Konsekwencja |
-| --------------------------------------------- | ------------ |
-| Uciekający [[Mike]] zboczył gdzieś ze ścieżki |              |
+**DC 14**
 
+| Komplikacja                                   | Konsekwencja                  |
+| --------------------------------------------- | ----------------------------- |
+| Uciekający [[Mike]] zboczył gdzieś ze ścieżki | Brak dodatkowej, strata czasu |
+| Dzik pojawia się w krzakach                   | 1d6 B dmg                     |
+| Zatrute grzyby                                | 1d6 Poison dmg                |
+| Gęste zarośla                                 | 1d4 P dmg                     |
+| Zatruta woda (opdady z Ascudpolis)            | DC 14 CON save or poisoned    |
+| Tu bagno                                      | Brak, strata czasu            |
+| Przepaść, zniszczony most linowy              | 2d6 B dmg                     |
+Konsekwencja porażki -> Utrata połowy golda za cast Locate Object przez [[Ciollo Nieustraszony]]
 
 ## Powrót i CiR
 * zamiast golda, party może otrzymać [[Katana of Hextech Perfection]]
