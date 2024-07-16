@@ -37,7 +37,7 @@ https://www.youtube.com/watch?v=_Yi4RbUdcL4
 ## Miejsce ataku
 * 3 Bandytów w drzewach, DC 18 Perception check
 * Jeśli niezauważeni: surprise round
-* Walka: [[Mike]] jako [Bandit Capitan](https://roll20.net/compendium/dnd5e/Bandit%20Captain) + #dostosować
+* Walka: [[Mike]] jako [Bandit Capitan](https://roll20.net/compendium/dnd5e/Bandit%20Captain) + 3x [Thug](https://www.dndbeyond.com/monsters/17035-thug)
 * Po paru/jednym killu - [[Mike]] ucieka do koni schowanych w drzewach
 * Jeden z koni ma pakunek wielkości beczki owinięty w koce
 * [[Ciollo Nieustraszony]] odzywa się przez kota: *[[Mike]]? A to kutas, podwoje waszą kwotę jak dostarczycie mi go żywego. I kolejne pół jak martwego. No i paczkę*
@@ -57,5 +57,13 @@ https://www.youtube.com/watch?v=_Yi4RbUdcL4
 | Przepaść, zniszczony most linowy              | 2d6 B dmg                     |
 Konsekwencja porażki -> Utrata połowy golda za cast Locate Object przez [[Ciollo Nieustraszony]]
 
+po wytropieniu: 
+## Dom drwala
+* sytuacja z zakładnikiem - żoną drwala
+* walka z [[Nerfed Wyvern]]
+* podczas walki - drwal wraca i zostaje ranny w walce
+* drwal potrzebuje pomocy, wymaga leczenia
 ## Powrót i CiR
+* [[Mike]] próbuje zabic się po drodze jeśli nie jest związany, check na medycynę, żeby go uratować
 * zamiast golda, party może otrzymać [[Katana of Hextech Perfection]]
+* bonus still applies
