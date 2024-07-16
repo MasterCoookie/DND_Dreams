@@ -63,6 +63,7 @@ po wytropieniu:
 * walka z [[Nerfed Wyvern]]
 * podczas walki - drwal wraca i zostaje ranny w walce
 * drwal potrzebuje pomocy, wymaga leczenia
+* **MIKE PRÓBUJE ZWIAĆ**
 ## Powrót i CiR
 * [[Mike]] próbuje zabic się po drodze jeśli nie jest związany, check na medycynę, żeby go uratować
 * zamiast golda, party może otrzymać [[Katana of Hextech Perfection]]
