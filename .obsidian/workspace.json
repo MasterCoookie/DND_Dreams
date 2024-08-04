@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "ec3360c3160e5ba7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gayax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "db1b74f0a3587e42",
             "type": "leaf",
             "state": {
@@ -271,8 +283,9 @@
   },
   "active": "6d5c345aa2125f06",
   "lastOpenFiles": [
-    "Sygnet Kruków.md",
+    "Gayax.md",
     "D&D/Arcs/immediate/Sesja 6 - Łamiący zły.md",
+    "Sygnet Kruków.md",
     "D&D/Arcs/immediate/Sesja 7 - Lester Molester.md",
     "D&D/Arcs/immediate/Sesja 5 - Euf.md",
     "D&D/Arcs/immediate/Sesja 4 - Lorebombing.md",
@@ -301,7 +314,6 @@
     "D&D/PC/Magni - Krasnolud Kleryk.md",
     "D&D/miejsce/sklepy/Sklep Pancerzowa Twierdza.md",
     "D&D/miejsce/sklepy/Sklep Kowalstwo Skalnych Ostrzy.md",
-    "D&D/miejsce/sklepy/Kwintesencja Eteru.md",
     "D&D/Mapy/square.dam",
     "D&D/Mapy/dom_eldrica.dd2vtt",
     "D&D/Mapy/prison.dd2vtt",
