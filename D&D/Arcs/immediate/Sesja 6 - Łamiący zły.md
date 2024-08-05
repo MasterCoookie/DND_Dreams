@@ -1,6 +1,7 @@
 # Pre
 * nastroje jakby ucichły
 * więcej mrygan swiatel
+* ==**zacięcie się w windzie**==
 # Intra
 ## Kwintesencja Eteru
 [[Kwintesencja Eteru]]
@@ -15,6 +16,7 @@
 * Za 50gp da magiczną fioletową lampkę pokazującą ślady
 
 ## Dungeon (Crackhouse)
+* paskudne miejsce produkcji jedzenia
 * Nothic szpieguje party podczas zwiedzania dungeonu
 * walka z  [Nothic](https://www.dndbeyond.com/monsters/17092-nothic) i 6x [Grimlock](https://www.dndbeyond.com/monsters/16914-grimlock)
 * walka z 2x [Mimic](https://www.dndbeyond.com/monsters/16957-mimic) przebrany za worki z [[księżycowy pył]]
