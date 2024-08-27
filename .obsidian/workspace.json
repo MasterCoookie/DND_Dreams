@@ -37,38 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Arcs/immediate/Sesja 6 - Łamiący zły.md",
+                "file": "D&D/Arcs/immediate/Sesja 7 - Lester Molester.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ec3360c3160e5ba7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gayax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db1b74f0a3587e42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sygnet Kruków.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72992d3cfbb549cf",
+            "id": "cb7861a7a49c8051",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,57 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "85b14f90ba29c42e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nerfed Wyvern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6766648c77a877a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skill chalenge cheatsheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8ff916c8453be13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Katana of Hextech Perfection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb4a1dab5bf36ab4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/NPC/Blazewrath - Siewca Piekieł.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "f68e392257f63188",
@@ -204,7 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.5
+    "width": 355.5
   },
   "right": {
     "id": "1692e6d295897531",
@@ -220,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Arcs/immediate/Sesja 6 - Łamiący zły.md",
+                "file": "Przygotowania na flaszkę 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Arcs/immediate/Sesja 6 - Łamiący zły.md",
+                "file": "Przygotowania na flaszkę 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Arcs/immediate/Sesja 6 - Łamiący zły.md"
+                "file": "Przygotowania na flaszkę 1.md"
               }
             }
           }
@@ -281,17 +209,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d5c345aa2125f06",
+  "active": "cb7861a7a49c8051",
   "lastOpenFiles": [
+    "D&D/Mapy/zelazna reka.dd2vtt",
+    "D&D/Mapy/zelazna reka.dam",
+    "D&D/Mapy/banda outpost.dd2vtt",
+    "D&D/Mapy/banda outpost.dam",
+    "D&D/Arcs/immediate/Sesja 7 - Lester Molester.md",
+    "Przygotowania na flaszkę 1.md",
+    "D&D/Arcs/immediate/Sesja 6 - Łamiący zły.md",
     "D&D/Mapy/crackhouse.dd2vtt",
     "Gayax.md",
-    "D&D/Arcs/immediate/Sesja 6 - Łamiący zły.md",
     "Sygnet Kruków.md",
-    "D&D/Arcs/immediate/Sesja 7 - Lester Molester.md",
     "D&D/Arcs/immediate/Sesja 5 - Euf.md",
     "D&D/Arcs/immediate/Sesja 4 - Lorebombing.md",
     "D&D/Arcs/immediate/Sesja 3 - czynienie wiosny.md",
-    "Przygotowania na flaszkę 1.md",
     "D&D/NPC/Mike.md",
     "D&D/Sidequests/Euf.md",
     "Skill chalenge cheatsheet.md",
@@ -315,13 +247,9 @@
     "D&D/PC/Magni - Krasnolud Kleryk.md",
     "D&D/miejsce/sklepy/Sklep Pancerzowa Twierdza.md",
     "D&D/Mapy/square.dam",
-    "D&D/Mapy/dom_eldrica.dd2vtt",
-    "D&D/Mapy/prison.dd2vtt",
     "PhotoFunia-1718565581.jpg",
     "D&D/img/PhotoFunia-1718565581.jpg",
-    "D&D/Mapy/dom_eldrica.dam",
     "D&D/img/Pasted image 20231223233936.png",
-    "D&D/Mapy/peace_normal_borders.dd2vtt",
     "D&D/img/Pasted image 20230924134425.png",
     "D&D/img/Pasted image 20230924133642.png",
     "D&D/img/Pasted image 20230923231743.png",

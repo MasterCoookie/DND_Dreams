@@ -1,7 +1,9 @@
 
 # Pre
-* niepokój w mieście rośnie
-* Światło mruga bardziej
+* światło gaśnie, blackout
+* wybucha panika
+* masowa ucieczka z [[Lochy Zapomnienia]]
+* chaos na ulicach
 
 # Intra
 

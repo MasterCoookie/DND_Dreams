@@ -15,6 +15,9 @@
 * info od [[Ciollo Nieustraszony]] lub innych ludzi: taka ilość towaru szybko zniknęła
 * Za 50gp da magiczną fioletową lampkę pokazującą ślady
 
+## Warstwa 7
+* ćpun zaczepia
+* głodny zaczepia
 ## Dungeon (Crackhouse)
 * paskudne miejsce produkcji jedzenia
 * Nothic szpieguje party podczas zwiedzania dungeonu
