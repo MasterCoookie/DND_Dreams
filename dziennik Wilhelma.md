@@ -1,5 +1,5 @@
 * wpis o wyprawie na bazyliszka
 * informacje na temat poszukiwań lekarstwa na chorobę dręczącą [[księżniczka Elowen Diamencika]] jako potencjalna żona (rozpoczęcie sidequesta)
-* w poszukiwaniach pomagała [[Czerwony Kaptur]], wpisana jako magini o imieniu Morgana
+* w poszukiwaniach pomagała [[Morgana]], wpisana jako magini o imieniu Morgana
 
 W skrócie, dziennik Wilhelma opisuje życie przeciętnego członka wyższej Szlachty - bankiety, orgie i bale. Ze stron można łatwo się domyślić, że Wilhemla zaczęło najpierw delikatnie, a potem coraz bardziej ono nudzić. W pewnym momencie zdecydował się na drastyczną zmianę. Wziął miecz pod pachę i został poszukiwaczem przygód. Po pewnym czasie trafił do Ascudpolis, gdzie dowiedział się o chorobie lokalnej księżniczki i uznał za cel uratowanie jej i poślubienie w nagrodę. W całym przedsięwzięciu pomagała mu czarodziejka o imieniu Morgana. Choć nie ufał jej, imponowały mu jej umiejętności, oraz kryształowe oczy. Razem udało im się zdobyć "Troskietnicę Błotną" (co nie wiesz czym jest, ale brzmi jak coś z bagien) jako składnik domniemanego lekarstwa. Morgana powiedziała, że potrzebne będą również jad bazyliszka oraz ogień smoka (bo choroba ma coś związanego z lodem). Dobrze się składało, że Wilhelm był w posiadaniu "Bohatera z Kamiennym Sercem" - oniroflaski.

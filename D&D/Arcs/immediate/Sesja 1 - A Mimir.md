@@ -161,7 +161,7 @@ Data sprzed 3 dni i podpis:*
 * Po chwili walka z 2x [Acolyte](https://www.dndbeyond.com/monsters/16763-acolyte) i 4x [Bandit](https://roll20.net/compendium/dnd5e/Bandit#content)
 * Czerwony kaptur może nacisnąć dźwignię
 * Czerwony kaptur jest chroniony magiczną tarczą
-* Po pokonaniu akolitów walka z [[Czerwony Kaptur]]
+* Po pokonaniu akolitów walka z [[Morgana]]
 * Po pokonaniu baba mówi:
 *Głupcy! Czy wiecie czego dokonaliście? Sprowadziliście śmierć na siebie i waszych bliskich! Zło, które teraz ujrzy światło dnia... przyniesie całej tej krainie... zgubę... Teraz nie ma już nadziei...*
 

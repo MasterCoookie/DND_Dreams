@@ -24,9 +24,9 @@ N/A
 * Party może wybrać miejsce ataku:
 1. A Droga
 2. B Most
-3. C Cieśnina
+3. C Cieśnina <-
 * Można się zakraść, wejść dywersją lub nawet siłą
-* #TODO zrobić mapę
+* W środku trzeba odnaleźć plany transportu
 
 ## Redukcja w liczbie ochrony
 * ochronę zapewnia [[zelazna reka]]
