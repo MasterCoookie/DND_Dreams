@@ -54,6 +54,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4ea1d0dabca06b0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Arcs/immediate/Sesja 8 - Logistyka bron nie tyka.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -211,12 +223,17 @@
   },
   "active": "cb7861a7a49c8051",
   "lastOpenFiles": [
+    "D&D/Mapy/wrogie przejecie.dd2vtt",
+    "D&D/Mapy/wrogie przejecie.dam",
+    "D&D/Mapy/nosicze.dd2vtt",
+    "D&D/Mapy/nosicze.dam",
+    "D&D/Arcs/immediate/Sesja 8 - Logistyka bron nie tyka.md",
+    "D&D/Arcs/immediate/Sesja 7 - Lester Molester.md",
+    "Przygotowania na flaszkę 1.md",
     "D&D/Mapy/zelazna reka.dd2vtt",
     "D&D/Mapy/zelazna reka.dam",
     "D&D/Mapy/banda outpost.dd2vtt",
     "D&D/Mapy/banda outpost.dam",
-    "D&D/Arcs/immediate/Sesja 7 - Lester Molester.md",
-    "Przygotowania na flaszkę 1.md",
     "D&D/Arcs/immediate/Sesja 6 - Łamiący zły.md",
     "D&D/Mapy/crackhouse.dd2vtt",
     "Gayax.md",
@@ -230,13 +247,10 @@
     "Nerfed Wyvern.md",
     "D&D/Mapy/itsatrap.dd2vtt",
     "D&D/Mapy/cabin.dd2vtt",
-    "D&D/Mapy/cabin.dam",
-    "D&D/Mapy/itsatrap.dam",
     "Katana of Hextech Perfection.md",
     "D&D/Arcs/immediate/Sesja 1 - A Mimir.md",
     "D&D/miejsce/Uniwersytet Sztuk Magicznych i Kapłaństwa w Ascudpolis (USMiKA).md",
     "D&D/NPC/Blazewrath - Siewca Piekieł.md",
-    "D&D/Mapy/uniwerek1.dam",
     "Lieux.md",
     "Ses.md",
     "U Alana.md",
@@ -245,8 +259,6 @@
     "D&D/PC/Kata'an Aasimar Palladyn.md",
     "D&D/NPC/Przełożony.md",
     "D&D/PC/Magni - Krasnolud Kleryk.md",
-    "D&D/miejsce/sklepy/Sklep Pancerzowa Twierdza.md",
-    "D&D/Mapy/square.dam",
     "PhotoFunia-1718565581.jpg",
     "D&D/img/PhotoFunia-1718565581.jpg",
     "D&D/img/Pasted image 20231223233936.png",
