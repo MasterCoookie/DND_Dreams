@@ -35,6 +35,11 @@ A chamber reveals what happens to those who tried to claim the artifact before:
 - **Rotting Landscape:**  
     The environment itself begins to rot the longer they stay. Walls develop black ichor, the air turns fetid, and flesh-eating insects appear. If they linger, they must succeed on Constitution saves (DC 13) or take poison damage each round.
 
+Zagadka :
+1. Ptak
+2. rozkwitający słonecznik
+3. Zastawiony stół
+4. wilk
 
 #### **3. "The Price of Greed" Corridor**
 
