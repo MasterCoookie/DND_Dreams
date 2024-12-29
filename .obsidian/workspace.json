@@ -55,12 +55,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesja 9 - plan ahead.md",
+                "file": "D&D/Arcs/immediate/Sesja 10 - a friend or  a foe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesja 9 - plan ahead"
+              "title": "Sesja 10 - a friend or  a foe"
+            }
+          },
+          {
+            "id": "eeea903d86094468",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Itemy/Anatomia Przerażenia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anatomia Przerażenia"
+            }
+          },
+          {
+            "id": "b9e006d4e3c71867",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wilhelm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wilhelm"
+            }
+          },
+          {
+            "id": "fc764c5b0cee8e5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dziennik Wilhelma.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dziennik Wilhelma"
             }
           },
           {
@@ -92,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "f68e392257f63188",
@@ -104,12 +146,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Arcs/immediate/Sesja 1 - A Mimir.md",
+                "file": "D&D/Arcs/immediate/Sesja 10 - a friend or a foe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesja 1 - A Mimir"
+              "title": "Sesja 10 - a friend or a foe"
             }
           }
         ]
@@ -143,7 +185,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "skill",
+                "query": "path:\"D&D/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -263,10 +305,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "883a99b329077198",
+  "active": "d57113f39293e2f0",
   "lastOpenFiles": [
+    "D&D/Arcs/immediate/Sesja 10 - a friend or a foe.md",
+    "D&D/Arcs/immediate/Sesja 1 - A Mimir.md",
+    "D&D/Itemy/Anatomia Przerażenia.md",
+    "D&D/PC/Matylda - Elf Plague Doctor.md",
+    "Wilhelm.md",
+    "Ses.md",
+    "dziennik Wilhelma.md",
+    "D&D/NPC/Morgana.md",
+    "D&D/Arcs/immediate/Nieustraszeni.md",
+    "D&D/Arcs/immediate/Sesja 9 - plan ahead.md",
     "D&D/Arcs/immediate/Sesja 8 - Logistyka bron nie tyka.md",
-    "Sesja 9 - plan ahead.md",
     "D&D/Arcs/immediate/Sesja 4 - Lorebombing.md",
     "D&D/Arcs/immediate/Sesja 5 - Euf.md",
     "[[Servant.md",
@@ -275,11 +326,8 @@
     "D&D/Arcs/immediate/Sesja 6 - Łamiący zły.md",
     "Lieux.md",
     "Murdrin.md",
-    "D&D/Arcs/immediate/Sesja 1 - A Mimir.md",
-    "D&D/NPC/Morgana.md",
     "D&D/Arcs/immediate/Sesja 7 - Lester Molester.md",
     "D&D/Sesje/Sesja 0.5 - Kata'an i Matylda.md",
-    "D&D/Itemy/Anatomia Przerażenia.md",
     "D&D/Sesje/Sesja 0.5 - Magni i Berthold.md",
     "D&D/Mapy/wrogie przejecie.dd2vtt",
     "D&D/Mapy/wrogie przejecie.dam",
@@ -294,13 +342,7 @@
     "Sygnet Kruków.md",
     "D&D/Arcs/immediate/Sesja 3 - czynienie wiosny.md",
     "D&D/NPC/Mike.md",
-    "D&D/Sidequests/Euf.md",
-    "Skill chalenge cheatsheet.md",
-    "Nerfed Wyvern.md",
     "D&D/Mapy/itsatrap.dd2vtt",
-    "Katana of Hextech Perfection.md",
-    "D&D/miejsce/Uniwersytet Sztuk Magicznych i Kapłaństwa w Ascudpolis (USMiKA).md",
-    "D&D/NPC/Blazewrath - Siewca Piekieł.md",
     "PhotoFunia-1718565581.jpg",
     "D&D/img/PhotoFunia-1718565581.jpg",
     "D&D/img/Pasted image 20231223233936.png",

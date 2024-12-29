@@ -12,7 +12,7 @@
 * potężna, ale rozważna
 
 ## Wants
-* Miejsca dla siebie pośród najważniejszych zdobytego realnymi zasługami
+* Balansu na kontynencie za wszelką cenę, tego chce rada czarodziejek
 
 Statblock:
 63 HP
