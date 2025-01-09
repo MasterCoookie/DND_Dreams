@@ -81,12 +81,143 @@ Jedna z zapisek nie zmienia się aż tak, pokazuje klasyczny proces aktywacji al
 ### Stara wieża
 Dungeon, cel: znalezienie ==reagentu== - kawałka smoczego serca
 #### Parter
+* pusty, lekko zagracony
+* pokryty szkarłatnymi pajęczynami z pająkami o żółtych, świecących oczach
 
 #### Pierwsze piętro
-
+* pusty stojak na bron
+* stare skrzynie i stojaki na zbroje i hełmy
+* mięso blokuje drabinę na górę
+* walka z 2x [Flesh Golem](https://www.dndbeyond.com/monsters/16863-flesh-golem)
 #### Drugie piętro
+* byłe mieszkalne pomieszczenie, przerobione na alchemiczne laboratorium
+* zielonkawe światło
+* ściany pokryte organami
+* masywny stół na środku
+* ==szklane cylindry (6) ze zdeformowanymi ciałami GRACZY==
+* Katan: złączony z tarczą z ogromnymi, żylastymi skrzydłami, w dużej kadzi
+* Magni: zgarbiony i wykrzywiony w malutkiej kadzi
+* Berthold: pokryty kośćmi zamiast kamienia
 
+4 ogromne szalki petriego z wyrytymi symbolami
+- **Katan:** Tarcza ze skrzydłami, oznaczająca ochronę i determinację.
+- **Magni:** Księga i błyszczący kryształ, symbolizujące wiedzę i wątpliwości.
+- **Berthold:** Kości i moneta i piwo, ukazujące chciwość i drogę do odkupienia.
+- **Matylda:** Zlewka z pęknięciem, reprezentująca ambicję i jej konsekwencje.
+
+##### Na pergaminie:
+
+"_„Ku przestrodze: tylko najodważniejsi i najgłupsi igrają z ogniem pradawnych. Smocze serce to naczynie żądzy, pychy i destrukcji. Zgromadzenie go oznacza jedno: przebudzenie koszmaru, który powinien na zawsze pozostać w zapomnieniu. Jeśli to czytasz, wiedz, że to twoje ręce otworzyły bramy ku zagładzie.”_
+
+_„By serce powstało, nie wystarczy moc, lecz ofiara – i to taka, która łamie dusze. Fragmenty muszą być pobrane od tych, których los sam naznaczył bólem i stratą. Każdy kawałek przypomni o chwale, której nigdy nie osiągną. Jeśli w swej pysze wznieciłeś płomień pradawnego, to na twoich barkach spocznie ciężar tej winy. Przebudzony smok nie zapomni twarzy swego twórcy – to jego przekleństwo, a twoja kara.”_
+
+_„Krew, która przepełnia serce, staje się zarazem jego więzieniem i kluczem. Kiedy serce zostanie ukształtowane, nadejdzie chwila, gdy smok spojrzy na swego stwórcę. A wtedy… nawet bogowie odwrócą wzrok.”_
+
+_„Wykonaj ten rytuał tylko, jeśli wiesz, że twoja pycha przetrwa, gdy świat wokół upadnie. Bo to, co stworzyłeś, nigdy nie wróci do snu.”_"
+
+##### Katan
+**Wizja:** Katan widzi siebie w zbroi straży królewskiej, stojącego przed salą tronową. Gdy otwiera drzwi, widzi księżniczkę leżącą na łożu, otoczoną przez lekarzy i dworzan. Każdy krok, który do niej stawia, powoduje, że jego zbroja staje się coraz cięższa, aż w końcu opada na kolana, niezdolny do dalszego ruchu.
+
+Wtedy zjawia się jego dawny dowódca straży i z pogardą odwraca się od niego, mówiąc:
+
+- _„Zawiodłeś ją. Zawiodłeś nas wszystkich. Nawet twoje święte przysięgi nic nie znaczą, gdy nie potrafisz ich wypełnić.”_
+
+Scena zmienia się – księżniczka leży na katafalku, jej oczy otwarte, lecz puste, wpatrzone prosto w Katana. Głos jej szeptem wybrzmiewa w jego głowie:
+
+- _„Gdzie byłeś, kiedy cię potrzebowałam? Dlaczego moje życie zawsze ważyło mniej od twojej pychy?”_
+
+Katan widzi swoje odbicie w jej oczach – nie jako honorowego paladyna, ale jako złamanego, upadłego wojownika w podartej zbroi. Głos kończy wizję:
+
+- _„Korona nie potrzebuje ciebie. Ty potrzebujesz jej. Twoja służba to tylko parodia, a twoje przysięgi – kłamstwo.”_
+
+**Efekt:** Po wizji Katan czuje, jak ciężar zbroi przez chwilę zdaje się zbyt wielki do uniesienia. W jego głowie pozostaje pytanie: czy jego misja ma sens, skoro zawiódł w najważniejszym momencie?
+
+##### Berthold
+
+**Wizja:** Berthold stoi w swoim dawnym warsztacie jubilerskim. Pracuje nad przepięknym klejnotem, ale jego dłonie drżą, a narzędzia wypadają z palców. W kącie warsztatu widzi sylwetkę dżina, spowitą cieniem, który delikatnie przechyla kielich w dłoni i uśmiecha się drwiąco.
+
+Dżin odzywa się głosem przesyconym fałszywym współczuciem:
+
+- _„Byłeś mistrzem swojego fachu, Bertholdzie. A potem stałeś się mistrzem kieliszka. Pamiętasz? Chciałeś zapomnieć, ale zapomniałeś siebie.”_
+
+Scena zmienia się. Berthold znajduje się w kasynie, otoczony przez pijanych hazardzistów, z którymi przegrał fortunę. W tłumie zauważa znajome twarze – ludzi, których zawiódł: klientów, rodzinę, przyjaciół. Wszyscy śmieją się szyderczo.
+
+Nagle kasyno płonie. Złoto i klejnoty topnieją w ogniu, a dżin pojawia się przed Bertholdem, trzymając jego dawną, ulubioną butelkę trunku.
+
+- _„Patrz, co zbudowałeś, i co spaliłeś. Teraz próbujesz się zmienić, ale powiedz mi, czy twoje kamienne serce może kiedykolwiek naprawić to, co zniszczyłeś?”_
+
+Na końcu wizji widzi swoje odbicie w kawałku stopionego złota – potworną wersję siebie, z kościstą skórą i pęknięciami, przez które sączy się ognista ciecz.
+
+**Efekt:** Berthold wraca do rzeczywistości, czując piekący smak alkoholu w ustach, choć dawno już nie pił. W jego głowie pozostaje echo pytania: czy jego próba odkupienia to tylko kolejna iluzja, którą stworzył, by ukoić własne sumienie?
+
+##### Magni:
+**Wizja:** Magni stoi na placu w swojej rodzinnej wiosce, otoczony przez tłum, który z jednej strony wiwatuje, a z drugiej wytyka go palcami. Na skraju tłumu widzi ojca, który patrzy na niego z zimnym, rozczarowanym spojrzeniem. Każdy krok Magniego ku tłumowi sprawia, że ziemia pod nim pęka, a ciała przeciwników, których masakrował w walce, wyłaniają się z ziemi, ciągnąc go w dół.
+
+Nagle znajduje się na polu bitwy, gdzie jego modlitwy nie przynoszą uzdrowienia ani światła, lecz jedynie ogień i destrukcję. Jego ręce są zakrwawione, a głos ojca rozbrzmiewa w jego głowie:
+
+- _„Nigdy nie byłeś godny mojego imienia. Masz moc, ale używasz jej tylko do niszczenia. Wszyscy, których dotykasz, płoną w ogniu twoich porażek.”_
+
+Gdy Magni próbuje odpierać zarzuty, nagle widzi swoją masakrę z innej perspektywy – jako dzikie i bezlitosne rozładowanie frustracji, które nie przyniosło nikomu ulgi. Głos kończy wizję:
+
+- _„Byłeś studentem, żołnierzem, synem. I zawiodłeś we wszystkim. Co ci zostało, Magnimarie? Jesteś niczym więcej niż ostrzem bez celu.”_
+
+**Efekt:** Magni wraca do rzeczywistości, czując piekący ból w dłoniach, jakby naprawdę przed chwilą trzymał płonący miecz.
+
+
+Plus każdy, kto użył kopii, widzi siebie jako mutanta w odbiciach
 #### Szczyt
+Widok na wieś
+
+
+## Walka ze smokiem
+* Aktywacja w studni
+* Smok wygrzebuje się ze środka
+* wrzask
+* opis [[Acheroth]]
+
+
+„Czuję wasz strach... Jego smak jest słodki, jak pierwsza kropla krwi w świeżym boju. Witajcie, śmiertelni. Jestem [[Acheroth]], Echo Waszych Klęsk, Zrodzony z Pychy i Rozpaczy.”
+
+Głowa ze studni:
+* duże, żółte oczy
+* dodatkowe oczy jak u pająka
+* rogi ruszające sie
+* nienaturalnie długa paszcza
+* miliony falujących zębów
+**„Ty... Ty, Matyldo, moja twórczyni, jesteś wszystkim, czym jestem. Twoje błędy, twoje pragnienia, twoje żałosne poczucie celu. Jakże bolesne musi być dla ciebie spojrzenie na mnie – twoje największe dzieło.”**
+
+Cielsko:
+* pokryte zaropiałymi, czarnymi łuskami
+* krwawi
+* zdaje się umierać i regenerować jednocześnie
+**„A wy, jej towarzysze, śnicie w fałszywej nadziei, że możecie naprawić to, co zostało złamane. Ale ten świat nie zna naprawy, tylko rozpad i zniszczenie. Przynoszę wam prawdę: nie uratujecie nikogo, kogo kochacie. Każde wasze działanie prowadzi tylko do większego cierpienia.”**
+
+Zaczyna latać:
+* rozpościera żylaste, cienkie, dziurawe skrzydla
+* przyslania księżyc
+**„Nie będę walczył o swoje życie, śmiertelni. Już teraz należycie do mnie. Każdy ruch, który wykonacie, każdy cios, który zadacie, przybliża was do mojego triumfu. Więc pokażcie mi, jak bardzo chcecie walczyć z przeznaczeniem. Pokażcie mi, jak rozpadacie się na moich oczach... ABY STAĆ SIĘ CZĘŚCIĄ MNIE!”**
+
+„Zrodziłem się z waszych marzeń o wielkości. Wasza pycha jest moim oddechem, wasze ambicje – moim sercem.”
+
+„Budowaliście swoje życie na fundamentach kłamstw. Teraz te fundamenty kruszą się pod moim ciężarem.”
+
+„Ja jestem waszym koszmarem, tym, co czaiło się w mroku każdej waszej nocy. Zanim spojrzeliście w mrok, to on już patrzył na was przeze mnie.”
+
+"Każdy wasz krok przybliża was tylko do straty. W tej grze nie ma zwycięzców. Są tylko Ci, którzy jeszcze nie zdali sobie sprawy, że przegrali"
+
+"Wasza determinacja jest godna podziwu, ale równe daremna. Próbujecie powstrzymać deszcz zbierając krople do kubka"
+
+==Do Katana== "Kogo próbujesz uratować?? Kogo próbujesz chronić? To tak jakbyś chciał złączyć popiół z powrotem w ogien. Wszystko co kochasz już dawno przeminęło"
+
+==Do Matyldy:== Twój geniusz był bezgraniczny, ale twoja odpowiedzialność - żadna. Czy choć chwilę pomyślałaś, czym ryzykujesz? Czy liczył się tylko efekt?
+
+==Do Magniego:== „Ach, Magni, zawsze tak pełen wiary, tak pewny swoich możliwości. A jednak wszędzie, gdzie idziesz, pozostawiasz za sobą tylko ruiny i zawiedzione nadzieje.”,
+
+==Do Bertholda== „Bertholdzie, czy naprawdę myślisz, że możesz uciec od swojej natury? Chciwość to nie wada – to twoja istota. Bez niej jesteś nikim.”
+
+Walka z [[Acheroth]]
+
+
 
 **Zdeformowana Kobieta w Płaczu**:
 - "To boli... każdy oddech boli... Ale strach, Matyldo, strach boli bardziej. Kiedy przyjdzie kolej na mnie, bym stała się jednością z tą ziemią?"
