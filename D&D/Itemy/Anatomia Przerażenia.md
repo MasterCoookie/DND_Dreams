@@ -22,6 +22,7 @@ https://open.spotify.com/track/7ad0L78kp6iJrHZikRvkJj?si=c1a9a2cff6d74490
 Wychodzą do wsi pod [[Lieux]] widocznym w oddali
 
 ## Wieś Lieux
+https://open.spotify.com/track/3JjXYP1XVbcrFYwgbFsPCZ?si=48b014aa78a84146
 ### Przedwsie
 * nad wsią widać z drugiej strony doliny wieżę strażniczą
 * z daleka centrum wygląda jakby na samym środku coś wybuchło a fala czerwonego koloru rozeszła się od wnętrza
