@@ -141,9 +141,9 @@ Dżin odzywa się głosem przesyconym fałszywym współczuciem:
 
 - _„Byłeś mistrzem swojego fachu, Bertholdzie. A potem stałeś się mistrzem kieliszka. Pamiętasz? Chciałeś zapomnieć, ale zapomniałeś siebie.”_
 
-Scena zmienia się. Berthold znajduje się w kasynie, otoczony przez pijanych hazardzistów, z którymi przegrał fortunę. W tłumie zauważa znajome twarze – ludzi, których zawiódł: klientów, rodzinę, przyjaciół. Wszyscy śmieją się szyderczo.
+Scena zmienia się. Berthold znajduje się w [[CiR]], otoczony przez pijanych hazardzistów, z którymi przegrał fortunę. W tłumie zauważa znajome twarze – ludzi, których zawiódł: klientów, rodzinę, przyjaciół. Wszyscy śmieją się szyderczo.
 
-Nagle kasyno płonie. Złoto i klejnoty topnieją w ogniu, a dżin pojawia się przed Bertholdem, trzymając jego dawną, ulubioną butelkę trunku.
+Nagle [[CiR]] płonie. Złoto i klejnoty topnieją w ogniu, a [[Ciollo Nieustraszony]] pojawia się przed Bertholdem, trzymając jego dawną, ulubioną butelkę trunku.
 
 - _„Patrz, co zbudowałeś, i co spaliłeś. Teraz próbujesz się zmienić, ale powiedz mi, czy twoje kamienne serce może kiedykolwiek naprawić to, co zniszczyłeś?”_
 
