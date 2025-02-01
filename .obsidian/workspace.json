@@ -64,6 +64,48 @@
             }
           },
           {
+            "id": "05967ae63ef59fe1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesja 12 - Shit hit the fan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sesja 12 - Shit hit the fan"
+            }
+          },
+          {
+            "id": "a8708b84806de1d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/miejsce/Ascudpolis - Megamiasto krasnoludów.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ascudpolis - Megamiasto krasnoludów"
+            }
+          },
+          {
+            "id": "e2346a266ffbfad3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Odłamek serca klątwy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Odłamek serca klątwy"
+            }
+          },
+          {
             "id": "65fe89c3cb1290de",
             "type": "leaf",
             "state": {
@@ -93,26 +135,6 @@
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "f68e392257f63188",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fff500675c63cacd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Arcs/immediate/Sesja 10 - a friend or a foe.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sesja 10 - a friend or a foe"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +153,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -263,10 +286,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65fe89c3cb1290de",
+  "active": "05967ae63ef59fe1",
   "lastOpenFiles": [
-    "D&D/Arcs/immediate/Sesja 11 - visions are worse than what you cannot see.md",
+    "D&D/Mapy/dungen__koboldy_wip.dd2vtt",
+    "D&D/Mapy/dungen__koboldy_wip.dam",
     "D&D/Arcs/immediate/Sesja 10 - a friend or a foe.md",
+    "Sesja 12 - Shit hit the fan.md",
+    "D&D/Mapy/przerzut.dd2vtt",
+    "D&D/Mapy/przerzut.dam",
+    "Murdrin.md",
+    "Łysy.md",
+    "D&D/Arcs/immediate/Sesja 11 - visions are worse than what you cannot see.md",
+    "D&D/miejsce/Ascudpolis - Megamiasto krasnoludów.md",
+    "Odłamek serca klątwy.md",
     "D&D/Itemy/Anatomia Przerażenia.md",
     "Acheroth.md",
     "D&D/Mapy/tower_floor_2.dd2vtt",
@@ -291,16 +323,7 @@
     "U Alana.md",
     "D&D/Arcs/immediate/Sesja 6 - Łamiący zły.md",
     "Lieux.md",
-    "Murdrin.md",
-    "D&D/Arcs/immediate/Sesja 7 - Lester Molester.md",
-    "D&D/Sesje/Sesja 0.5 - Kata'an i Matylda.md",
-    "D&D/Sesje/Sesja 0.5 - Magni i Berthold.md",
     "D&D/Mapy/wrogie przejecie.dd2vtt",
-    "D&D/Mapy/wrogie przejecie.dam",
-    "D&D/Mapy/nosicze.dd2vtt",
-    "D&D/Mapy/nosicze.dam",
-    "Gayax.md",
-    "Sygnet Kruków.md",
     "PhotoFunia-1718565581.jpg",
     "D&D/img/PhotoFunia-1718565581.jpg",
     "D&D/img/Pasted image 20231223233936.png",

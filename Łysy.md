@@ -1,0 +1,2 @@
+Beholder
+przywódca [[Banda Łysego]]
