@@ -23,13 +23,13 @@
 
 **Motyw (dla kogoś innego):** Alistar był szantażystą – zbierał brudy na swoich gości i sprzedawał informacje, jeśli mu się opłacało. Mógł kogoś doprowadzić do desperacji.
 
-### Liliane de Verre
+### **Liliane de Verre**
 * młoda
 * dobrze się odnajduje
 * ciemna suknia i złote kolczyki w kształcie łez
 * żywe spojrzenie
 * błysk inteligencji
-
+* „Alistar traktował finanse jak świętość… Miał nawet specjalną księgę tylko dla kolacji – wszystko musiało być perfekcyjne.”
 * Jest uprzejma, elokwentna, błyskotliwa. Lubi obserwować i słuchać
 
 ### **Lord Hemsworth Penderley** (Człowiek, stary polityk)
@@ -84,6 +84,40 @@ Po toaście, gdy Alistar zasiada z powrotem na swoim miejscu i upija łyk wina �
 
 Obsługa dyskretnie zabiera szkło, wymieniając je. Część gości próbuje zażartować, ktoś rzuca banalny komentarz o „złych omenach”, ale napięcie pozostaje – przez chwilę robi się **nienaturalnie cicho**, jakby pokój wstrzymał oddech.
 
+## Dania kolacji
+### **Przystawka** – _Zupa z Nocy Letniej_
+
+Cienki, niemal przezroczysty bulion, ciemnoniebieski niczym niebo o północy, lśniący delikatnie jak powierzchnia jeziora. W środku pływają drobne, niemal eteryczne płatki czarnej róży, a na dnie spoczywa pojedynczy, złoty płatek – niejadalny, ale ponoć przynoszący szczęście temu, kto go znajdzie.
+
+**Smak:** delikatnie kwiatowy, z nutą słodkawego anyżu i chłodnej mięty.  
+**Zapach:** jak letnia noc po burzy.
+
+---
+
+### **Danie główne 1** – _Carpaccio z Białej Bestii_
+
+Cieniutko pokrojone plasterki mięsa nieznanego pochodzenia – miękkie jak jedwab, serwowane na czarnej porcelanie. Mięso ma niepokojący, perłowy odcień i delikatny, drżący połysk. Podawane z sosem z granatu i płatkami jadalnego srebra.
+
+**Pogłoski:** niektórzy twierdzą, że "Biała Bestia" to istota żyjąca jedynie w snach.  
+**Smak:** subtelny, ulotny, rozpływający się na języku jak marzenie, które trudno zapamiętać.
+
+---
+
+### **Danie główne 2** – _Polędwiczka z księżycowego jelenia z sosem z winem „Nocturne 1853”_
+
+Mięso ciemne, niemal czarne, ale miękkie jak masło. Podane z purée z białego korzenia i smażonymi grzybami, które skrzypią przy zgryzie niczym śnieg pod butami. Na wierzchu – cienki pasek karmelizowanej cebuli przypominającej błyskawicę.
+
+**Winna nuta:** Wino to bardzo stare, gęste i cierpkie, z aromatem przypominającym wilgotne piwnice, stare drewno i cichą rozpacz.
+
+---
+
+### **Deser** – _Zachód Krwi_
+
+Miniaturowa beza o kształcie róży, lekko przypalona na brzegach, skrywająca w środku ciepły mus z wiśni i czarnej porzeczki. Po przecięciu wypływa z niej ciemnoczerwona esencja, przypominająca krew. Na wierzchu – lśniąca łza z karmelu.
+
+**Zapach:** duszny, ciężki, słodki aż do przesady.  
+**Efekt:** niektórzy twierdzą, że deser wywołuje sny. Inni, że przypomina o czymś zapomnianym.
+
 ## Gdzieś potem
 
 * Perception roll
@@ -132,10 +166,17 @@ Obsługa dyskretnie zabiera szkło, wymieniając je. Część gości próbuje za
 
 ## Poszlaki w pokojach
 
-### Isolde
+### Liliana
 * Zeszyt opisujący makabryczne eksperymenty
 * mają na celu pozwolić osiągnąć całkowitą nieśmiertelność
 
+### Isolde
+List:
+„Ona myśli, że nie widzę.  
+Te spojrzenia, gesty, ta jej nienaturalna serdeczność.  
+Ona nigdy nie przestała go kochać.  
+Ale on był mój.  
+I zawsze będzie. Nawet po śmierci.”
 ### Biskup
 * woda święcona zniknęła
 
@@ -143,7 +184,54 @@ Obsługa dyskretnie zabiera szkło, wymieniając je. Część gości próbuje za
 * W korytarzu, gdzie rozwieszone są herby jego jest inny
 * „Zawsze mnie to dziwiło… pan Arlen mówił, że jego ród zawsze zasiadał w Izbie Nocy, a ja pamiętam, że pan Alistar śmiał się z tego za młodu… mówił, że oni z jakiegoś zapomnianego bagienka pochodzą.”
 ### Aranwe Złoty Pazur
-**Zapis w księdze gości:**  
-Księga przy wejściu do rezydencji zawiera notkę o wcześniejszych wizytach – jedna z nich wskazuje na spotkanie Alistara i Aranwë na temat „projektu Srebrny Krąg” zakończonego „brakiem porozumienia”.
+**Zapis w księdze rachunkowej:**  
+Księga rachunkowa notkę o wcześniejszych wizytach – jedna z nich wskazuje na spotkanie Alistara i Aranwë na temat „projektu Srebrny Krąg” zakończonego „brakiem porozumienia”.
 
 „Aranwë się tu już nie pojawiał przez rok, odkąd pan Alistar nazwał jego projekt... 'megalomańskim złomem'. A jednak dziś przyszedł.”
+
+### Bellamira d’Orsay
+* trudno się z nią dogadać
+* maluje, nie ogarnia
+
+#### Obrazy
+Sugerujacy tajne lab:
+ ![[Pasted image 20250406125114.png]]
+
+* jeden, którego styl wyraźnie różni się od reszty
+* subtelniejszy, bardziej pełen napięcia. Przedstawia kobietę w czerwonej sukni (Liliane) siedzącą w cieniu, wpatrzoną w postać mężczyzny, stojącego w świetle na tle okna z różanym ogrodem (Alistar)
+* Ich twarze są rozmyte
+* > **Insight lub Historia DC 15:** rozpoznanie stylu – ten obraz został namalowany na podstawie opowieści, nie z życia. Ktoś opisywał Bellamirze relację, która nie była jawna.
+
+**Bellamira (jeśli pytana):**  
+„Ach… tak. Liliane poprosiła mnie, bym namalowała coś... osobistego. Mówiła, że to dla niej katharsis. Nie pytałam więcej. Emocje były świeże.”
+
+## Laboratorium Liliane
+* uderzający, żelazny odór śmierci
+* ciemność
+* zejście po drabinie
+* **Zapach:** nieustanny odór żelaza, gnijących tkanek i alchemicznych spalenizn.
+- **Dźwięk:** kapanie płynów, oddechy czegoś ukrytego w ciemności, czasami odgłos tłuczonego szkła – choć nic nie spadło.
+
+### **1. Sala Preparacyjna**
+* Blaty pokryte są zakrwawionymi narzędziami chirurgicznymi i alchemicznymi
+* Stoją tu skrzynie z formaliną, słoje z organami i resztki poprzednich "badań".
+* Przy ścianie leży trup – częściowo przekształcony, z oczami rozszerzonymi w wiecznym przerażeniu.
+* trup ma ciuchy jak służący w zamku
+
+**Ślepy trop:**  
+Zapisków brakuje – wycięte z dziennika strony leżą spalone w palenisku.
+### **2. Sala Przechowywania Krwi**
+* Ogromne, szklane zbiorniki z krwią – niektóre bulgoczą, inne są puste i pęknięte
+* Jedno z naczyń zawiera... bijące serce, podłączone do srebrnych rurek.
+
+### **3. Komnata Ekstrakcji**
+To tutaj Liliane próbowała destylować esencję nieśmiertelności. Komnata wygląda jak z sennego koszmaru: alchemiczne kręgi na podłodze, wiszące łańcuchy, ściany pokryte krwią. Pośrodku: kamienny stół rytualny, a nad nim podwieszony zwłokopodobny manekin.
+
+**Encounter**
+Jeśli konfrontowali Lilliane:
+![[Pasted image 20250406143239.png]]
+ + 4x [Ghast](https://roll20.net/compendium/dnd5e/Ghast#content)
+ Jeśli nie
+ * 4x [Vampire Spawn](https://roll20.net/compendium/dnd5e/Vampire%20Spawn#content)
+
+* fiolka krwi -> Jeśli zapytają nekromantki, zmieszana Liliany i Alistar
