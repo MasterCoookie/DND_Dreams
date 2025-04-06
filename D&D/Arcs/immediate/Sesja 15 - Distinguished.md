@@ -235,3 +235,21 @@ Jeśli konfrontowali Lilliane:
  * 4x [Vampire Spawn](https://roll20.net/compendium/dnd5e/Vampire%20Spawn#content)
 
 * fiolka krwi -> Jeśli zapytają nekromantki, zmieszana Liliany i Alistar
+
+
+## Finał
+* W sali jadalnej wciąż pali się światło świec, choć kolacja dawno się skończyła
+* Goście zebrali się ponownie — w mrocznej ciszy, przeciętej tylko stukotem kroków i szeptem domysłów. Twarze są bladosine, oczy błyszczą – podejrzenie wisi w powietrzu jak mgła nad bagiennym ogrodem
+* Gdy gracze ujawniają prawdę – przedstawiają dowody, łączą fakty, wskazują winnego — przez chwilę wszystko zamiera.
+
+* **Liliane** – blada jak śmierć – nie zaprzecza. Jej spojrzenie wbija się gdzieś w dal, jakby przeszywało zasłonę między światami. W jej oczach nie ma złości. Tylko... ulga?
+
+* W tle rozlega się dźwięk: miękkie pęknięcie szkła, jakby ktoś stłukł kieliszek, choć żaden nie leży na podłodze.
+
+* ***Alistar**, a może jego cień, siedzi na fotelu, którego wcześniej tu nie było. Spogląda na bohaterów i mówi:
+
+„Dobrze. Prawda została wypowiedziana. A lustro… nie kłamie.”
+
+* Na końcu stołu, tam gdzie wcześniej stało puste miejsce, **pojawia się ogromne, barokowe lustro**. Rama przypomina wijące się gałęzie róży, pełne cierni. Szkło jest matowe, ale w jego wnętrzu – coś się porusza. Obrazy snu... wspomnienia, które nie są ich własnymi. Odbicia, które nie podążają za ruchem.
+
+* w lustrze ukazuje się prawda spotkania z [[Łysy]], fkat, że flaszka namieszała w rzeczywistości
