@@ -3,6 +3,7 @@
 # Intra
 ## Stół
 * Przywitanie przy stole
+* https://open.spotify.com/playlist/4Yz4OxGaJ6ap2BUKR4ELSZ?si=2c9ad803f3404943
 # Postacie kolacji:
 ### **Hrabina Isolde von Mörn** – _Pani Domu_
 
@@ -167,8 +168,8 @@ Miniaturowa beza o kształcie róży, lekko przypalona na brzegach, skrywająca 
 ## Poszlaki w pokojach
 
 ### Liliana
-* Zeszyt opisujący makabryczne eksperymenty
-* mają na celu pozwolić osiągnąć całkowitą nieśmiertelność
+* osobliwa, czerwona róża
+* Aby wejść do tajnej kryjówki: brakująca róża pod jabłonią
 
 ### Isolde
 List:
@@ -235,8 +236,6 @@ Jeśli konfrontowali Lilliane:
  * 4x [Vampire Spawn](https://roll20.net/compendium/dnd5e/Vampire%20Spawn#content)
 
 * fiolka krwi -> Jeśli zapytają nekromantki, zmieszana Liliany i Alistar
-
-
 ## Finał
 * W sali jadalnej wciąż pali się światło świec, choć kolacja dawno się skończyła
 * Goście zebrali się ponownie — w mrocznej ciszy, przeciętej tylko stukotem kroków i szeptem domysłów. Twarze są bladosine, oczy błyszczą – podejrzenie wisi w powietrzu jak mgła nad bagiennym ogrodem
