@@ -206,6 +206,15 @@ Sugerujacy tajne lab:
 **Bellamira (jeśli pytana):**  
 „Ach… tak. Liliane poprosiła mnie, bym namalowała coś... osobistego. Mówiła, że to dla niej katharsis. Nie pytałam więcej. Emocje były świeże.”
 
+### Madame Vyrrha
+* może wyssać krew z listu
+* list odkrywa, że Alistar zmienił zdanie
+## Pojawienie Bertholda
+* w pokoju Madame
+* Wygląda na oszołomionego
+* kieliszek wina w ręku
+* Madame: *"Och, wybaczcie, moi drodzy... Znaleziony zagubiony gość zasługiwał na odrobinę... odpoczynku."*
+* **Berthold** pociera skronie i wygląda na kogoś, kto **przeżył coś intensywnego**, choć nie potrafi od razu wszystkiego ubrać w słowa.
 ## Laboratorium Liliane
 * uderzający, żelazny odór śmierci
 * ciemność
