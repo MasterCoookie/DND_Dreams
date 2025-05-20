@@ -22,91 +22,7 @@
             }
           },
           {
-            "id": "7fe2ac0a0992138b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Arcs/immediate/Sesja 4 - Lorebombing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sesja 4 - Lorebombing"
-            }
-          },
-          {
-            "id": "eeea903d86094468",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Arcs/immediate/Sesja 10 - a friend or a foe.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sesja 10 - a friend or a foe"
-            }
-          },
-          {
-            "id": "8db3a182d5978d7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Arcs/immediate/Sesja 11 - visions are worse than what you cannot see.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sesja 11 - visions are worse than what you cannot see"
-            }
-          },
-          {
-            "id": "05967ae63ef59fe1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesja 12 - Shit hit the fan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sesja 12 - Shit hit the fan"
-            }
-          },
-          {
-            "id": "1bb327f5d9f3ea1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesja 13 - Kobold Karnage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sesja 13 - Kobold Karnage"
-            }
-          },
-          {
-            "id": "458a57fdb9dc0bac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesja 14 - Zakolak.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sesja 14 - Zakolak"
-            }
-          },
-          {
-            "id": "ae32c6b779e510a8",
+            "id": "801c0eee61d085ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -117,20 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "Sesja 14 - Zakolak"
-            }
-          },
-          {
-            "id": "801c0eee61d085ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Arcs/immediate/Sesja 15 - Distinguished.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sesja 15 - Distinguished"
             }
           },
           {
@@ -190,7 +92,27 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
+      },
+      {
+        "id": "b58bb75e11b31e2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8313615f2281a0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Arcs/immediate/Sesja 16 - Zakolak 2 zemsta zakolaka.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sesja 16 - Zakolak 2 zemsta zakolaka"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -342,19 +264,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "801c0eee61d085ce",
+  "active": "c8313615f2281a0a",
   "lastOpenFiles": [
+    "D&D/Arcs/immediate/Sesja 14 - Zakolak.md",
+    "D&D/Arcs/immediate/Sesja 15 - Distinguished.md",
+    "D&D/Sidequests/Euf.md",
+    "D&D/Arcs/immediate/Sesja 11 - visions are worse than what you cannot see.md",
+    "D&D/Arcs/immediate/Sesja 16 - Zakolak 2 zemsta zakolaka.md",
     "D&D/Mapy/vampiry.dd2vtt",
     "D&D/Mapy/vampiry.dam",
     "Pasted image 20250406143239.png",
     "Pasted image 20250406125114.png",
     "Ses.md",
-    "D&D/Arcs/immediate/Sesja 15 - Distinguished.md",
     "D&D/miejsce/CiR.md",
     "D&D/NPC/Ciollo Nieustraszony.md",
     "D&D/Arcs/immediate/Sesja 13 - Kobold Karnage.md",
     "712885a5-ebde-4cc0-b42e-768b1de9f351.png",
-    "D&D/Arcs/immediate/Sesja 14 - Zakolak.md",
     "D&D/Arcs/immediate/Sesja 12 - Shit hit the fan.md",
     "Łysy.md",
     "D&D/Mapy/dom lysego.dd2vtt",
@@ -366,13 +291,11 @@
     "D&D/Mapy/przerzut.dd2vtt",
     "D&D/Mapy/przerzut.dam",
     "Murdrin.md",
-    "D&D/Arcs/immediate/Sesja 11 - visions are worse than what you cannot see.md",
     "D&D/miejsce/Ascudpolis - Megamiasto krasnoludów.md",
     "D&D/Itemy/Anatomia Przerażenia.md",
     "Acheroth.md",
     "D&D/Mapy/tower_floor_2.dd2vtt",
     "D&D/Mapy/tower_floor_2.dam",
-    "D&D/Mapy/tower_floor_1.dd2vtt",
     "D&D/Arcs/immediate/Sesja 4 - Lorebombing.md",
     "D&D/Arcs/immediate/Sesja 8 - Logistyka bron nie tyka.md",
     "D&D/Arcs/immediate/Sesja 1 - A Mimir.md",
@@ -382,7 +305,6 @@
     "D&D/NPC/Morgana.md",
     "D&D/Arcs/immediate/Nieustraszeni.md",
     "D&D/Arcs/immediate/Sesja 9 - plan ahead.md",
-    "D&D/Arcs/immediate/Sesja 5 - Euf.md",
     "PhotoFunia-1718565581.jpg",
     "D&D/img/PhotoFunia-1718565581.jpg",
     "D&D/img/Pasted image 20231223233936.png",
