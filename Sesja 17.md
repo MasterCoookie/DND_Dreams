@@ -59,3 +59,20 @@ Wojownik kończy to, co zaczął. Ty znowu coś porzuciłeś, Magni.”
 * Miasto… a raczej jego szkielety, rozciągają się przed wami. Kamienne fundamenty zredukowane do **popiołu, czarnego szkła i zwęglonych struktur**, których kształt przypomina o tragedii.
 
 Nad głowami migoczą **czarne pęknięcia w rzeczywistości**, niczym rozprute szwy. Spomiędzy nich sączy się **chora energia** i coś jeszcze — **obecność**, której nie potrafisz nazwać, ale czujesz na skórze jak żrący popiół.
+
+Przebijają się przez spaloną podłogę
+Obok nich upada trup jakiegoś czarodzieja, ma w ręku scroll [control weather](https://roll20.net/compendium/dnd5e/Control%20Weather#content)
+Ma ślady szponów demona
+
+Jedna osoba castuje, reszta musi ją bronić,
+
+Walki z:
+https://roll20.net/compendium/dnd5e/Vrock#content
+2x https://5e.tools/bestiary/bulezau-mpmm.html
+
+2x https://5e.tools/bestiary/chasme-mm.html
+
+https://www.dndbeyond.com/monsters/16922-hezrou
+6x https://www.aidedd.org/dnd/monstres.php?vo=manes
+
+
