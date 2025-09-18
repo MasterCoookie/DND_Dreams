@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesja 17.md",
+                "file": "D&D/Arcs/immediate/Sesja 16 - Zakolak 2 zemsta zakolaka.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesja 17"
+              "title": "Sesja 16 - Zakolak 2 zemsta zakolaka"
+            }
+          },
+          {
+            "id": "cc7c2000d4c71e0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesja 18 - She burned me down.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sesja 18 - She burned me down"
             }
           },
           {
@@ -63,7 +77,8 @@
               "title": "Thorin Kamieniomów"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b58bb75e11b31e2c",
@@ -241,6 +256,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -249,17 +265,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "801c0eee61d085ce",
+  "active": "cc7c2000d4c71e0a",
   "lastOpenFiles": [
+    "Sesja 17.md",
+    "Sesja 18 - She burned me down.md",
+    "D&D/Arcs/immediate/Sesja 16 - Zakolak 2 zemsta zakolaka.md",
+    "D&D/Arcs/immediate/Sesja 15 - Distinguished.md",
+    "D&D/Mapy/dom kamieniomow.dd2vtt",
+    "D&D/Mapy/dom kamieniomow.dam",
     "D&D/Mapy/fire_bottom.dd2vtt",
     "D&D/Mapy/fire_bottom.dam",
     "D&D/Sidequests/Euf.md",
-    "D&D/Arcs/immediate/Sesja 15 - Distinguished.md",
     "D&D/NPC/Thorin Kamieniomów.md",
     "D&D/Arcs/immediate/Sesja 13 - Kobold Karnage.md",
     "D&D/Arcs/immediate/Sesja 14 - Zakolak.md",
-    "Sesja 17.md",
-    "D&D/Arcs/immediate/Sesja 16 - Zakolak 2 zemsta zakolaka.md",
     "D&D/Arcs/immediate/Sesja 11 - visions are worse than what you cannot see.md",
     "D&D/Mapy/vampiry.dd2vtt",
     "D&D/Mapy/vampiry.dam",
@@ -277,13 +296,10 @@
     "D&D/Mapy/dungen__koboldy_wip.dd2vtt",
     "D&D/Mapy/dungen__koboldy_wip.dam",
     "D&D/Arcs/immediate/Sesja 10 - a friend or a foe.md",
-    "D&D/Mapy/przerzut.dd2vtt",
-    "D&D/Mapy/przerzut.dam",
     "Murdrin.md",
     "D&D/miejsce/Ascudpolis - Megamiasto krasnoludów.md",
     "D&D/Itemy/Anatomia Przerażenia.md",
     "Acheroth.md",
-    "D&D/Mapy/tower_floor_2.dd2vtt",
     "D&D/Arcs/immediate/Sesja 4 - Lorebombing.md",
     "D&D/Arcs/immediate/Sesja 8 - Logistyka bron nie tyka.md",
     "D&D/Arcs/immediate/Sesja 1 - A Mimir.md",
