@@ -29,92 +29,98 @@ Jeśli popytają zostaną przekierowani do:
 - **Miejsce:** zgliszcza dawnej kuźni, zawalone kamieniem i drewnem, wewnątrz nadal tli się ogień. Dym gęsty jak mgła.
  * **klaustrofobia** i **czas uciekający między trzaskami belek**. W tle niech gracze czują, że „jeszcze minuta dłużej” i będzie po wszystkim
 
-### 1. Wejście w ruiny
+## 1. Wejście w ruiny
 
-- **Investigation (INT)** – znaleźć drogę przez zawaloną fasadę.
-    
-- **Athletics (STR)** – siłowe wyważenie belki tarasującej przejście.
-    
-- ❌ Porażka: stracony czas – ogień zajmuje kolejne pomieszczenie.
-    
+Dymiące gruzy tarasują przejście do kuźni. Belki i kamienie blokują drzwi, a ogień liże ich krawędzie.
 
----
+- **Investigation (INT)**: znajdziesz wąską szczelinę i bezpieczną drogę.
+- **Athletics (STR)**: spróbujesz siłą odsunąć belkę i otworzyć przejście.
 
-### 2. Niestabilne stropy
-
-- **Acrobatics (DEX)** – przecisnąć się i nie oberwać belką.
-    
-- **Survival (WIS)** – przewidzieć, które fragmenty zaraz runą.
-    
-- ❌ Porażka: 1k6 obrażeń od gruzu.
-    
+**Sukces:** Otwieracie przejście.  
+**Porażka:** Tracicie czas — ogień zajmuje kolejne pomieszczenie.
 
 ---
 
-### 3. Dym i gorąco
+## 2. Niestabilne stropy
 
-- **Constitution Save (DC 13)** – każdy rzuca.
-    
-- ✅ Sukces drużynowy: wszyscy łapią oddech.
-    
-- ❌ Porażka indywidualna: punkt wyczerpania (disadvantage na INT/WIS checks).
-    
+Strop nad wami jęczy i pęka. Każdy krok może go zawalić.
 
----
+- **Acrobatics (DEX)**: prześlizgniesz się przez chwiejące się deski.
+- **Survival (WIS)**: oceniasz, które belki są najbliżej upadku i prowadzisz drużynę.
 
-### 4. Wołanie Juliena
-
-- **Perception (WIS)** – usłyszeć dziecko wśród huku.
-    
-- **Insight (WIS)** – domyślić się, że chłopak krzyczy „kuźnia, kuźnia” (a nie „pomocy”).
-    
-- ❌ Porażka: idą w złą stronę → +1 porażka drużyny.
-    
+**Sukces:** Przechodzicie bezpiecznie.  
+**Porażka:** Spadające belki ranią was (1k6 obrażeń).
 
 ---
 
-### 5. Zawalone korytarze
+## 3. Dym i gorąco
 
-- **Athletics (STR)** – odsunąć głaz blokujący przejście.
-    
-- **Arcana (INT)** – szybki rytuał rozproszenia ognia/ognistej pułapki (pozostałość po kataklizmie).
-    
-- ❌ Porażka: hałas przyciąga uwagę demonów na zewnątrz (narasta presja, ale nie walka).
-    
+Gęsty, duszący dym spowija korytarz. Oddychanie staje się trudne.
 
----
+- **Rzut na Constitution Save (DC 13)**: każdy rzuca.
 
-### 6. Ogień w kuźni
-
-- **Nature (INT)** – znaleźć źródło tlenu i otworzyć wlot, by odciągnąć płomienie.
-    
-- **Performance (CHA)** – krzyk/przemowa, by uspokoić Juliena, który w panice nie daje się zlokalizować.
-    
-- ❌ Porażka: Julien przestaje krzyczeć, bo się dławi → trudniej go znaleźć.
-    
+**Sukces (wszyscy zdają):** Ruszacie dalej, nie tracąc sił.  
+**Porażka (choćby jeden):** ktoś zaczyna kaszleć i dostaje punkt wyczerpania (disadvantage na testy INT i WIS).
 
 ---
 
-### 7. Odnalezienie chłopca
+## 4. Wołanie Juliena
 
-- **Investigation (INT)** – rozpoznać jego małe narzędzia/ślady w warsztacie.
-    
-- **Medicine (WIS)** – ocenić jego stan i ustabilizować go przed wyniesieniem.
-    
-- ❌ Porażka: Julien traci przytomność i wynoszenie go jest trudniejsze.
-    
+Wśród trzasków ognia słychać dalekie wołanie. Ale echo myli kierunki.
+
+- **Perception (WIS)**: zlokalizujesz źródło dźwięku.
+- **Insight (WIS)**: rozpoznasz, że chłopak krzyczy „kuźnia”, a nie „pomocy”.
+
+**Sukces:** Podążacie właściwą drogą.  
+**Porażka:** Idziecie w złym kierunku → +1 porażka drużynowa.
 
 ---
 
-### 8. Wyniesienie Juliena
+## 5. Zawalone korytarze
 
-- **Athletics (STR)** – nieść go przez gruzy.
-    
-- **Dexterity (DEX)** – unikanie spadających belek na powrocie.
-    
-- ❌ Porażka: ktoś doznaje obrażeń albo gubią część ekwipunku.
-    
+Przejście jest zawalone wielkim głazem. Obok migocze jakaś stara, ognista runa.
 
+- **Athletics (STR)**: spróbujesz przesunąć głaz.
+- **Arcana (INT)**: spróbujesz rozproszyć magiczną runę ognia.
+
+**Sukces:** Otwieracie przejście.  
+**Porażka:** Hałas i rozbłysk zwracają uwagę demonów czających się na zewnątrz (narasta presja, ale nie walka).
+
+---
+
+## 6. Ogień w kuźni
+
+Pomieszczenie, w którym utknął Julien, jest pełne płomieni. Widać jego sylwetkę w oddali.
+
+- **Nature (INT)**: znajdziesz sposób na otwarcie wlotu powietrza i odciągniesz część ognia.
+- **Performance (CHA)**: krzykiem spróbujesz uspokoić Juliena, żeby się nie miotał w panice.
+
+**Sukces:** Robicie miejsce i chłopak reaguje.  
+**Porażka:** Julien milknie, dławiąc się dymem → trudniej go znaleźć.
+
+---
+
+## 7. Odnalezienie chłopca
+
+W kuźni porozrzucane są narzędzia. Julien ukrył się pod stołem.
+
+- **Investigation (INT)**: dostrzegasz ślady jego obecności (małe młotki, dziecięce rękawice).
+- **Medicine (WIS)**: oceniasz jego stan i udzielasz pierwszej pomocy.
+
+**Sukces:** Julien zostaje odnaleziony i zabezpieczony.  
+**Porażka:** Traci przytomność — wynoszenie go będzie trudniejsze.
+
+---
+
+## 8. Wyniesienie Juliena
+
+Trzeba go nieść przez walące się korytarze.
+
+- **Athletics (STR)**: niesiesz chłopca, torując drogę.
+- **Dexterity (DEX)**: omijasz spadające belki i zawalające się ściany.
+
+**Sukces:** Wynosicie go żywego na zewnątrz.  
+**Porażka:** Ktoś zostaje ranny albo gubicie część ekwipunku.
 ---
 
 ## Wyniki
