@@ -36,6 +36,7 @@ czerwona i zielona żarówka
 *„Maszyny działają, bo elementy współpracują.*  
 *Ludzie zwykle nie. Udowodnijcie, że nie jesteście ludźmi.”*
 
+Gracze znajdują INSTRUKECJE SKŁADANIA MASZYNY
 ## 1 Anatomia Maszyny – ramiona i nogi**
 
 Stabilność konstrukcji
