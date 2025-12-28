@@ -136,7 +136,7 @@ Gracze otrzymują instrukcje:
 
 # Wieża z widokiem na miasto
 * nie wydaje się schowana
-* ma 
+* ma drzwi z 6m nad ziemią, tak o
 
 
 https://open.spotify.com/track/0OfWE2c2dRDsCwCkzOBJT2?si=1a5b059fb508428e
