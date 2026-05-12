@@ -357,3 +357,187 @@ Przykłady szeptów:
 > „Spraw, by mnie pamiętali…”
 
 > „Nie chcę być słaby…”
+
+### Zrośnięte baraki
+Dawne kwatery górników.
+
+Ale łóżka:
+
+- wrosły w ściany,
+- koce zamieniły się w cienkie błony przypominające skórę,
+- z sufitu wyrastają kryształowe narośla przypominające zęby.
+
+#### 🪞 Lustra
+
+Każde lustro pokazuje:  
+„ulepszoną” wersję postaci.
+
+- Wilhelm bez gniewu
+- Magni jako święty bohater
+- Berthold jako idealny krasnolud jubiler
+
+Ale:  
+wszyscy mają kryształowe oczy.
+
+---
+
+Ukryty sekret
+
+Pod jednym łóżkiem:  
+dziecięcy rysunek wykonany kryształem.
+
+Przedstawia:
+
+- wielkiego człowieka z dymu,
+- trzymającego rodzinę za ręce.
+
+Podpis:
+
+> „Pan Zafar uratował mamę.”
+
+W jednym z baraków:
+
+- wszystkie prycze są częściowo wrośnięte w ściany,
+- ale jedna wygląda inaczej.
+
+---
+
+> Ta prycza nie została porośnięta kryształem.
+> 
+> Została przez niego… pochłonięta.
+> 
+> Rama łóżka wystaje jeszcze spomiędzy masy ciemnoniebieskich minerałów, które rozrosły się jak guz.
+> 
+> Pościel zastąpiły cienkie warstwy półprzezroczystego kamienia.
+> 
+> Coś pod nimi leży.
+
+Każdy słyszy coś innego.
+
+- Wilhelm: cichy oddech.
+- Magni: stukot górniczego młota.
+- Berthold: kobiecy głos mówiący:
+
+> „Jeszcze tylko jeden klejnot.”
+
+- z wnętrza rozlegnie się gardłowy krzyk,
+- a cała struktura zacznie pulsować.
+
+Nie atakuje.  
+Ale brzmi jak żywa.
+
+---
+
+Rozwiązanie „bezpieczne”
+
+- delikatnie odkuwać kryształ (Sleight of Hand / mason’s tools / jeweler’s tools DC 16),
+- użyć ciepła,
+- albo magii uspokajającej.
+
+Każda porażka:
+
+- powoduje pękanie kości pod kryształem,
+- oraz cichy jęk.
+
+---
+
+## Investigation / Perception DC 15
+
+Odkrywają:
+
+- pod warstwą kryształu znajduje się ciało krasnoluda,
+- jego ręce są zaciśnięte wokół czegoś ukrytego pod klatką piersiową.
+
+Ale:  
+kryształ nie wyrósł _na_ nim.
+
+On wyrósł _z niego_.
+
+W środku klatki piersiowej krasnoluda:  
+znajduje się ogromny, ciemny szafir.
+
+Nie został połknięty.
+
+Serce zamieniło się w niego.
+
+---
+
+## Opis szafiru
+
+> Kamień jest idealnie gładki.
+> 
+> W jego wnętrzu coś powoli wiruje.
+> 
+> Gdy patrzysz zbyt długo, przypomina źrenicę.
+
+### Pionowy szyb schodzący w absolutną ciemność.
+
+Ale nie ma dna.
+
+Zamiast tego:  
+na dole powoli obraca się ogromna masa kryształów.
+
+Jak serce.
+
+---
+
+
+Kiedy ktoś mówi przy szybie:  
+głos wraca…  
+ale kończy zdanie inaczej.
+
+Przykład:
+
+Gracz:
+
+> „Musimy go zatrzymać.”
+
+Echo:
+
+> „…zanim spełni wasze życzenia.”
+
+---
+Można:
+
+- spuszczać liny,
+- badać magię,
+- próbować słuchać rytmu.
+
+---
+
+
+To nie kopalnia tworzy kryształy.
+
+To:
+- emocje,
+- żal,
+- desperacja.
+
+Kopalnia jest tylko inkubatorem.
+
+#### Żywi górnicy
+
+> W ścianach tkwią ludzie.
+> 
+> Nie martwi.
+> 
+> Ich torsy wystają z kryształu jak owady z bursztynu.
+> 
+> Oddychają bardzo powoli.
+> 
+> Każdy wdech powoduje rozbłysk światła pod ich skórą.
+
+Niektórzy:
+
+- proszą o śmierć,
+- inni błagają, by ich nie odłączać.
+
+Bo:
+
+- gdy są połączeni z kryształami,
+- śnią.
+
+A sny są piękne.
+
+
+  
