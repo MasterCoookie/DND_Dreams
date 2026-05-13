@@ -540,4 +540,4 @@ Bo:
 A sny są piękne.
 
 
-  
+  [[Komnata]]
